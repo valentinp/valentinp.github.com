@@ -1,10 +1,10 @@
-title:            My Hacks
-description:      blog about my hacks
+title:            Valentin Peretroukhin
+description:      About me.
 logo:             user.jpg
 disqus_shortname:
 #Comment out url when working locally to resolve base urls correctly
-url: http://vinitkumar.me/Simple              
-
+#url: http://vinitkumar.me/Simple              
+base_path: false
 # Owner/author information
 owner:
   name: changer          
