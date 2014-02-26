@@ -1,0 +1,12 @@
+---
+layout: page
+title: Plain old hacking blog!
+description: "Open Source Hacker, Web Developer and a overall nice guy."
+tags: [Jekyll, theme, themes, responsive, Blog, minimalism]
+---
+
+<ul class="unstyled left-side">
+{% for post in site.posts limit:10 %} 
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</article></li>
+{% endfor %}
+</ul>

@@ -1,40 +1,108 @@
-# Jekyll-Bootstrap
+## Simple Theme
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+![Simple](http://i.imgflip.com/5r5tp.gif)
 
-## Usage
+I designed this simple and minimalistic theme keeping just one thing in mind. 
+> The content should be the king.
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+Also, I did some sweet modifications as Google pagespeed analytics and suggestion. Along with that full care of SEO done with all required meta tags.
 
-## Version
+##Usage:
 
-0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
+First, clone this repo to your own github account and rename the repo as <githubusernmae>.github.com
 
-**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
-However, the actual API has not changed at all.
-You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
+In-order to use the theme, go to `.config.yml`  and replace all of the fields with your own content:
 
-## Contributing
+```yaml
+title:            My Hacks
+description:      blog about my hacks
+logo:             user.jpg
+disqus_shortname:
+#Comment out url when working locally to resolve base urls correctly
+url: http://vinitkumar.me/Simple              
+
+# Owner/author information
+owner:
+  name: changer          
+  avatar:        
+  email:          
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:       
+  github: changer        
+  stackexchange:  
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus: 
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:  
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Blog
+    url: /articles
+  - title: Code
+    url: 
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    
+future:      true
+pygments:    true
+markdown:    redcarpet
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+activate: syntax
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile",
+"Rakefile.rb", "tmp", "less", "*.sublime-project", "*" ]
+```
+
+Once done setting up the config.yml make sure you have the jekyll installed. Also, replace the content in _posts and add your own blog posts.
+
+Usage:
+
+To checkout the content locally, you must have jekyll installed on your
+system, if there is none installed it using:
+
+```bash
+$ gem install jekyll
+```
+And then do:
+
+```bash
+$ jekyll server --watch
+```
+Bugs & Issues:
+
+If you are curious about contributing or have found an issue, kindly
+create an [issue here](https://github.com/vinitkumar/Simple/issues)
 
 
-To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-This is very important as it allows me to accept your pull request without having to publish a public version release.
-
-Small, atomic Features, bugs, etc.
-Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.
-Please rebase as often as possible when working.
-Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
-
-For Big Features or major API extensions/edits:
-This is the one case where I'll accept pull-requests based off the master branch.
-This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-Translation : it might take a bit longer so please be patient! (but sincerely thank you).
-
-**Jekyll-Bootstrap Documentation Website.**
-
-The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
 
 
-## License
 
-[MIT](http://opensource.org/licenses/MIT)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vinitkumar/simple/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+

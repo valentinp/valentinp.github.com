@@ -1,5 +1,35 @@
----
-layout: default
----
-{% include JB/setup %}
-{% include themes/the-program/post.html %}
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include head.html %}
+</head>
+
+<body>
+{% include header.html %}
+
+  <div class="main-container">
+    <div class="main wrapper clearfix">
+      <article>
+        {{ content }}
+      </article>
+
+      <nav class="pagination" role="navigation">
+        {% if page.previous %}
+          <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}"><i class="fa fa-arrow-circle-o-left fa-5x"></i></a>
+        {% endif %}
+        {% if page.next %}
+          <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}"><i class="fa fa-arrow-circle-o-right fa-5x"></i></a>
+        {% endif %}
+      </nav><!-- /.pagination -->
+   
+    </div><!-- /.entry-content -->
+  </div><!-- /.entry-wrapper -->
+  
+
+{% include scripts.html %}	        
+
+</body>
+</html>
