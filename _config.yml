@@ -1,18 +1,18 @@
 title:            Valentin Peretroukhin
 description:      About me.
-logo:             user.jpg
+logo:             vp.jpg
 disqus_shortname:
 #Comment out url when working locally to resolve base urls correctly
-#url: http://vinitkumar.me/Simple              
-base_path: false
+#url: /              
+#base_path: false
 # Owner/author information
 owner:
-  name: changer          
+  name: Valentin Peretroukhin          
   avatar:        
-  email:          
+  email: valentinp@gmail.com         
   # Social networking links used in footer. Update and remove as you like.
-  twitter:       
-  github: changer        
+  twitter: valentinp       
+  github: valentinp        
   stackexchange:  
   # For Google Authorship https://plus.google.com/authorship
   google_plus: 
@@ -28,10 +28,12 @@ bing_verify:
 links:
   - title: About
     url: /about
+  - title: Research
+    url: /research
   - title: Blog
-    url: /articles
-  - title: Code
-    url: 
+    url: /blog
+  - title: Photos
+    url: /photos  
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    

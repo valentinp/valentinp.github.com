@@ -217,8 +217,8 @@ nav a:hover {
 
     nav a {
         float: left;
-        width: 27%;
-        margin: 0 1.7%;
+        /*width: 27%;*/
+        margin: 0 5%;
         margin-bottom: 0;
     }
 
@@ -266,7 +266,7 @@ nav a:hover {
 
     nav {
         float: right;
-        width: 38%;
+        width: 40%;
     }
 
 /* ============
