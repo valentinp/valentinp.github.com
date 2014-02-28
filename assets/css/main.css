@@ -69,7 +69,7 @@ h1, h2, h3, h4 {
    ========================================================================== */
 
 body {
-    font: 16px/26px "Raleway", Arial;
+    font: 14px/26px "Raleway", Arial;
 }
 
 .wrapper {
@@ -125,6 +125,10 @@ body {
     height: 200px;
     width: 200px;
     padding: 20px 20px 10px 20px;
+}
+
+#publicationList {
+	font-size: 10pt;
 }
 
 /* ==============
