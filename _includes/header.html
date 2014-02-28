@@ -3,15 +3,13 @@
       <a href="/"><h1 class="title">{{ site.title }}</h1></a>
         <nav> 
             <ul>
-                {% for link in site.links %}
-                        <li>
-                                {% if link.external %}
-                                        <a href="{{ link.url }}">{{ link.title }}</a>
-                                {% else %}
-                                        <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
-                                {% endif %} 
-                        </li>
-                {% endfor %}
+            {% assign url = page.url|remove:'/index.html' %}
+      		{% for link in site.navigation %}
+			<li {% if url == link.url %}class="active"{% endif %}>
+  		  	<a href="{{ site.url }}{{ link.url }}">{{link.title}}</a>
+			</li>
+			{% endfor %}
+            
             </ul>
         
         </nav>

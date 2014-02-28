@@ -102,6 +102,16 @@ body {
         display: block;
     }
 }
+.brief-bio {
+	font-size:10pt;
+	line-height: 13pt;
+	border: 1px solid #eaeaea;
+   border-radius: 10%;
+   width: 80%;
+   margin: 5px auto;
+
+	
+}
 .main aside {
     background: #ffffff;
 }
@@ -114,7 +124,7 @@ body {
     border-radius: 50%;
     height: 200px;
     width: 200px;
-    padding: 20px;
+    padding: 20px 20px 10px 20px;
 }
 
 /* ==============
@@ -122,7 +132,7 @@ body {
    ============== */
 a {
     text-decoration: none;
-    color: #000;  
+    color: #4183c4;  
 }
 
 nav ul {
@@ -139,20 +149,20 @@ nav a {
     text-decoration: none;
     font-weight: light;
 
-    color: #000;
+    color: #4183c4;
     background: #ffffff;
 }
 
+nav li.active a {
+    text-decoration: none;
+    color: #000;
+}
+
 nav > ul > li > a:hover {
-    color: #4183c4;
+    color: #000;
     text-decoration: none;
 }
 
-
-nav a:hover,
-nav a:visited {
-    color: #4183c4;
-}
 
 nav a:hover {
     text-decoration: underline;
