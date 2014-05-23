@@ -6,8 +6,11 @@ tags: [Research, Papers, Conferences]
 ---
 
 <h3>Publications & Research</h3>
-<div id="publicationList">
+<div id='publicationList'>
 <ol>
+<li>
+Peretroukhin V, Kelly J, and Barfoot T D. “Optimizing Camera Perspective for Stereo Visual Odometry”. In Proceedings of the 11th Conference on Computer and Robot Vision (CRV), pages 1–7. Montreal, Quebec, 7-9 May 2014. (<a href='{{ site.url }}/research_material/VP_CRV2014-OptVOPrePrint.pdf'>PDF</a> , <a href='{{ site.url }}/research_material/VP-CRVPresentation.pdf'> Slides </a>)
+</li>
 <li>
 Stenning B E, Bajin L, Robson C, <strong>Peretroukhin V</strong>, Osinski G R, and Barfoot T D. “Towards Autonomous Mobile Robots for the Exploration of Steep Terrain”. In Proceedings of the International Conference on Field and Service Robotics (FSR). Brisbane, Australia, 9-11 December 2013.
 </li>
