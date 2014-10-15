@@ -1,7 +1,6 @@
 <div class="header-container">
     <header class="wrapper clearfix">
-      <a href="/"><h1 class="title">{{ site.title }}</h1></a>
-        <nav> 
+         <nav> 
             <ul>
             {% assign url = page.url|remove:'/index.html' %}
       		{% for link in site.navigation %}
@@ -13,5 +12,7 @@
             </ul>
         
         </nav>
+        <a href="/"><h1 class="title">{{ site.title }}</h1></a>
+     
     </header>
 </div

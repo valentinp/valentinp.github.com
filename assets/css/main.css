@@ -139,10 +139,12 @@ a {
     color: #4183c4;  
 }
 
+nav {
+float:right;
+}
 nav ul {
     margin: 0;
     padding: 0;
-    float:right;
 }
 
 nav a {
