@@ -139,9 +139,6 @@ a {
     color: #4183c4;  
 }
 
-nav {
-float:right;
-}
 nav ul {
     margin: 0;
     padding: 0;
@@ -283,7 +280,7 @@ nav a:hover {
 
     nav {
         float: right;
-        width: 40%;
+        width: 250px;
     }
 
 /* ============
