@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First!
+title: Welcome!
 ---
 
 Welcome to valentinp.com! This is the homepage of yours truly, Valentin Peretroukhin. I am a graduate student at the [University of Toronto](http://utoronto.ca).
@@ -13,7 +13,7 @@ If you're curious how this website is built. Here is a synopsis of all the tools
 
 * Jekyll, with Poole foundation
 * Hyde theme (with a few modifications)
-* Kuler Neutral Blue color theme
+* Google font (Open Sans Condensed)
 * Font Awesome for all the icons
 * Github pages for hosting
 
