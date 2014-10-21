@@ -1,0 +1,37 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1 id='site-title'>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="sidebar-info">{{ site.description }}</p>
+      <p class="sidebar-info"> Contact me: 
+        <a href="https://twitter.com/valentinp" target="_blank"> <i class="fa fa-twitter-square"></i> 
+        <a href="https://github.com/valentinp" target="_blank"> <i class="fa fa-github-square"></i></a>
+        <a href="https://plus.google.com/+ValentinPeretroukhin" target="_blank"> <i class="fa fa-google-plus-square"></i></a>
+      </p>
+      
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Blog</a>
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </nav>
+
+  </div>
+</div>

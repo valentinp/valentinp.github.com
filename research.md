@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /research/index.html
 title: Research & Work
 tags: [Research, Papers, Conferences]
 ---
@@ -25,9 +24,16 @@ Stenning B E, Bajin L, Robson C, <strong>Peretroukhin V</strong>, Osinski G R, a
 
 <h3>Work</h3>
 <ul>
+	<li><a href="http://stars.utias.utoronto.ca">STARS Lab Website</a> <br/>
+	The STARS webpage is the primary outreach for my lab at the University of Toronto Institute for Aerospace Studies.
+</li>
+
+	<li><a href="http://neverfromconcentrate.com">NeverFromConcentrate.com</a> <br/>
+	NeverFromConcentrate is an ongoing conversation between me and my friend Rachit Chuckerwarti. We discuss philosophy, sports and popular culture.
+</li>
+
 <li><a href="http://mindcipher.com">Mindcipher.com</a> <br/>
-	Mindcipher is a social puzzle and brain teaser website that I made together with two of my roommates, Ravi Trivedi and Aakash Sahney
-	in undergrad. It has everything from quick, short one-liners to difficult logic puzzles and everything in between.
+	Mindcipher is a social puzzle and brain teaser website that I made together with two of my roommates, Ravi Trivedi and Aakash Sahney during undergrad. It has everything from quick, short one-liners to difficult logic puzzles and everything in between.
 </li>
 <li><a href="https://play.google.com/store/apps/details?id=com.valper.easycyrillic&hl=en">EasyCyrillic</a><br/>
 EasyCyrillic is a simple Android app that I made while learning the platform. If you ever need to type something in Cyrillic letters but don't want
@@ -35,4 +41,5 @@ to switch keyboards, this is a useful little tool.
 </li>
 <li><a href="http://filipok.ca"> Filipok.ca</a> <br/>
 Filipok.ca is a website that I made and upkeep for a Russian community school here in Toronto.</li>
+
 </ul>

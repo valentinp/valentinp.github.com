@@ -1,59 +1,21 @@
-title:            Valentin Peretroukhin
-description:      About me.
-logo:             vp.jpg
-disqus_shortname:
-#Comment out url when working locally to resolve base urls correctly
-#url: /              
-#base_path: false
-# Owner/author information
-owner:
-  name: Valentin Peretroukhin          
-  avatar:        
-  email: valentinp@gmail.com         
-  # Social networking links used in footer. Update and remove as you like.
-  twitter: valentinp       
-  github: valentinp        
-  stackexchange:  
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus: 
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:  
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-# Links to include in top navigation
-# For external links add external: true
-navigation:
-  - title: Home
-    url: /
-  - title: Research
-    url: /research
- 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    
-future:      true
-pygments:    true
-markdown:    redcarpet
+# Setup
+title:            "Valentin Peretroukhin"
+tagline:          "Valentin's Homepage" 
+description:      'Ph.D. student in <a href="http://stars.utias.utoronto.ca" target="_blank">autonomous mobile robotics</a>. Aviation enthusiast. Techmology lover. Sports geek.'
+url:              http://valentinp.com
+baseurl:          /
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+author:
+  name:           'Valentin Peretroukhin'
+  url:            https://twitter.com/valentinp
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
+paginate:         5
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-activate: syntax
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec"]

@@ -1,20 +1,37 @@
 ---
-layout: page
-title: About
-description: "Home page of Valentin Peretroukhin. Roboticist. Graduate Student. Aviation Enthusiast."
-tags: [Valentin Peretroukhin, robotics]
+layout: default
+title: Home
 ---
-Hello stranger! Welcome to the home page of Valentin Peretroukhin. <bn/>
 
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
+    <span class="post-date">{{ post.date | date_to_string }}</span>
 
-<p>
-I'm a PhD Student at the <a href="http://stars.utias.utoronto.ca/">STARS </a> (Space and Terrestrial Autonomous Robotic Systems) Lab at the University of Toronto's Institute for Aerospace Studies.
-I received my B.A.Sc also from the University of Toronto in Engineering Science (N&Psi;) majoring in Aerospace Engineering.
-</p>
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
 
-<p>
-My current research focuses on autonomous navigation within dynamic environments. I am working with <a href="http://www.jonathankelly.info">Professor Jonathan Kelly</a> on
-a predictive filtering approach that uses a learned model for both the process and observation noise covariance to improve the performance of
-visual inertial odometry techniques within highly dynamic, urban environments. 
-</p>
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
