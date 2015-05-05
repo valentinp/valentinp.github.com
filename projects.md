@@ -6,16 +6,22 @@ tags: [Work,Projects]
 
 <h3>Roles</h3>
 <ul>
-	<li>Co-founder: <a href="http://getpillsy.com">Pillsy</a> <br/>
+	<li>
+	<h4>Co-founder: <a href="http://getpillsy.com">Pillsy</a> </h4>
+	<img src='/assets/Pillsy.png' width='300px'/>
 	Pillsy is a smart pouch and app that lets women take birth control more effectively. 
 	</li>
-	<li>Vice-President: <a href="http://sportsanalytics.sa.utoronto.ca/">University of Toronto Sports Analytics Group (UTSPAN)</a> <br/>
+	<li><h4>Vice-President: <a href="http://sportsanalytics.sa.utoronto.ca/">University of Toronto Sports Analytics Group (UTSPAN)</a> </h4>
+	<img src='/assets/UTSPAN.png' width='300px'/>
+
 	The U of T Sports Analytics group works with collegiate and professional sports teams to analyze performance data and produce insightful models.
 	</li>
-	<li>Vice-President: <a href="http://arrow.utias.utoronto.ca/~asa/index.html">Aerospace Students Association</a> <br/>
+	<li><h4>Vice-President: <a href="http://arrow.utias.utoronto.ca/~asa/index.html">Aerospace Students Association</a> </h4>
+	<img src='/assets/ASA.png' width='300px' style='border:1px solid #ccc;'/>
 	The ASA is responsible for running social and sporting events at the U of T Institute for Aerospace Studies. I help with many events, though the annual Trivia night is my personal favourite.
 	</li>
-	<li>Blogger and Podcaster: <a href="http://neverfromconcentrate.com">NeverFromConcentrate.com</a> <br/>
+	<li><h4> Blogger and Podcaster: <a href="http://neverfromconcentrate.com">NeverFromConcentrate.com</a> </h4>
+	<img src='/assets/NFC.png' width='300px'/>
 	NeverFromConcentrate is an ongoing conversation between me and my friend Rachit Chuckerwarti. We discuss philosophy, sports and popular culture.
 	</li>
 </ul>
