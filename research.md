@@ -1,12 +1,20 @@
 ---
 layout: page
-title: Research & Work
+title: Research
 tags: [Research, Papers, Conferences]
 ---
 
-<h3>Publications & Research</h3>
+<h3>Publications</h3>
+Below is the obligatory publications list. I believe strongly in effectively communicating each piece of research in straightforward, jargon-free language. I will do my best to update each publication with an explanatory video in the near future.
+
 <div id='publicationList'>
 <ol>
+<li>
+<strong>Peretroukhin V </strong>, Clement L, and Kelly J “Get to the Point: Active Covariance Scaling for Feature Tracking Through Motion Blur”. <em> To Appear </em> in the Scaling Up Active Vision workshop at ICRA 2015. 
+</li>
+<li>
+Clement L, <strong>Peretroukhin V </strong>, and Kelly J “The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter”. <em> To Appear </em> In Proceedings of the 12th Conference on Computer and Robot Vision (CRV). Halifax, Nova Scotia, 3-5 June 2015. 
+</li>
 <li>
 <strong>Peretroukhin V </strong>, Kelly J, and Barfoot T D. “Optimizing Camera Perspective for Stereo Visual Odometry”. In Proceedings of the 11th Conference on Computer and Robot Vision (CRV), pages 1–7. Montreal, Quebec, 7-9 May 2014. (<a href='{{ site.url }}/assets/research_material/VP_CRV2014-OptVOPrePrint.pdf'>PDF</a>, <a href='{{ site.url }}/assets/research_material/VP-CRVPresentation.pdf'> Slides </a>)
 </li>
@@ -22,24 +30,4 @@ Stenning B E, Bajin L, Robson C, <strong>Peretroukhin V</strong>, Osinski G R, a
 </ol>
 </div>
 
-<h3>Work</h3>
-<ul>
-	<li><a href="http://stars.utias.utoronto.ca">STARS Lab Website</a> <br/>
-	The STARS webpage is the primary outreach for my lab at the University of Toronto Institute for Aerospace Studies.
-</li>
 
-	<li><a href="http://neverfromconcentrate.com">NeverFromConcentrate.com</a> <br/>
-	NeverFromConcentrate is an ongoing conversation between me and my friend Rachit Chuckerwarti. We discuss philosophy, sports and popular culture.
-</li>
-
-<li><a href="http://mindcipher.com">Mindcipher.com</a> <br/>
-	Mindcipher is a social puzzle and brain teaser website that I made together with two of my roommates, Ravi Trivedi and Aakash Sahney during undergrad. It has everything from quick, short one-liners to difficult logic puzzles and everything in between.
-</li>
-<li><a href="https://play.google.com/store/apps/details?id=com.valper.easycyrillic&hl=en">EasyCyrillic</a><br/>
-EasyCyrillic is a simple Android app that I made while learning the platform. If you ever need to type something in Cyrillic letters but don't want
-to switch keyboards, this is a useful little tool.
-</li>
-<li><a href="http://filipok.ca"> Filipok.ca</a> <br/>
-Filipok.ca is a website that I made and upkeep for a Russian community school here in Toronto.</li>
-
-</ul>

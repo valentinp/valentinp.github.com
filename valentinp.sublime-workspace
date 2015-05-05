@@ -5,18 +5,94 @@
 		[
 			[
 				"font",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font-",
 				"font-size"
+			],
+			[
+				"paddin",
+				"padding-bottom"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "_includes/navigation.html",
+			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 1287,
+				"buffer_size": 585,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/hyde.css",
+			"settings":
+			{
+				"buffer_size": 5035,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/VLC.app/Contents/MacOS/share/lua/sd/hockey.luac",
+			"settings":
+			{
+				"buffer_size": 9198,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_includes/sidebar.html",
+			"settings":
+			{
+				"buffer_size": 1636,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/poole.css",
+			"settings":
+			{
+				"buffer_size": 6863,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 653,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 1137,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "research.md",
+			"settings":
+			{
+				"buffer_size": 2671,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2014-10-21-introducing-valentinpcom.md",
+			"settings":
+			{
+				"buffer_size": 727,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -44,13 +120,22 @@
 	},
 	"file_history":
 	[
+		"/Users/valentinp/Dropbox/PhD/STARS-Web/index.html",
+		"/Users/valentinp/Dropbox/PhD/Code/valentinp.com/about.md",
+		"/Users/valentinp/Dropbox/PhD/Code/valentinp.com/valentinp.sublime-project",
+		"/Users/valentinp/Dropbox/PhD/Code/valentinp.com/CNAME",
+		"/Users/valentinp/Dropbox/PhD/Code/valentinp.com/_includes/sidebar.html",
+		"/Users/valentinp/Dropbox/PhD/Code/valentinp.com/public/css/poole.css",
+		"/Users/valentinp/Dropbox/PhD/Code/valentinp.com/_includes/navigation.html",
+		"/Users/valentinp/Dropbox/PhD/Code/valentinp.com/_config.yml",
+		"/Users/valentinp/Dropbox/PhD/Code/valentinp.com/blog.md",
 		"/Users/valentinp/Downloads/recursionpractice.py",
 		"/Users/valentinp/Dropbox/UTIAS - MASc/STARS-Web/index.html",
 		"/Users/valentinp/Dropbox/Filipok/index.php"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -64,6 +149,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"!\n",
+			"content",
+			". ",
+			"\n  ",
 			"dark",
 			"\n  "
 		],
@@ -83,29 +172,248 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_includes/navigation.html",
+					"file": "_config.yml",
 					"settings":
 					{
-						"buffer_size": 1287,
+						"buffer_size": 585,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								378,
+								378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 95.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/css/hyde.css",
+					"settings":
+					{
+						"buffer_size": 5035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1450,
+								1456
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1151.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Applications/VLC.app/Contents/MacOS/share/lua/sd/hockey.luac",
+					"settings":
+					{
+						"buffer_size": 9198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								638,
+								638
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_includes/sidebar.html",
+					"settings":
+					{
+						"buffer_size": 1636,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1586,
+								1586
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/css/poole.css",
+					"settings":
+					{
+						"buffer_size": 6863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1189,
+								1195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 652.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 653,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								633,
+								633
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_includes/head.html",
+					"settings":
+					{
+						"buffer_size": 1137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								961,
+								961
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "research.md",
+					"settings":
+					{
+						"buffer_size": 2671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1630,
+								1630
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 15.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_posts/2014-10-21-introducing-valentinpcom.md",
+					"settings":
+					{
+						"buffer_size": 727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								562,
+								562
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -122,7 +430,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -172,6 +480,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 279.0,
+	"side_bar_width": 364.0,
 	"status_bar_visible": true
 }
