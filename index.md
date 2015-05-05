@@ -3,7 +3,6 @@ layout: page
 title: About Valentin
 ---
 <p class="message">
-  TL;DR <br/>
   <strong>Name: </strong> Valentin Peretroukhin. (Russian in Origin, Born in Moscow) <br/>
   <strong>Location:</strong> Toronto, Ontario (Go Leafs/Raptors/Jays/FC!) <br/>
   <strong>Occupation:</strong> Ph.D. Student, <a href="http://stars.utias.utoronto.ca/">STARS Lab </a> (Robotics, AI, Computer Vision). <br/>
