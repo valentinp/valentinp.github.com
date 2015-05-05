@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            "Valentin Peretroukhin"
 tagline:          "Valentin's Homepage" 
-description:      'Ph.D. student in <a href="http://stars.utias.utoronto.ca" target="_blank">autonomous mobile robotics</a>. Aviation enthusiast. Technology lover. Sports geek.'
+description:      'Ph.D. student in <a href="http://stars.utias.utoronto.ca">autonomous mobile robotics</a>. Aviation enthusiast. Technology lover. Sports geek.'
 url:              http://valentinp.com
 baseurl:          /
 
