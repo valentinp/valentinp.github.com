@@ -31,17 +31,14 @@
  * Update the foundational and global aspects of the page.
  */
 
-html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-}
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 
@@ -86,10 +83,10 @@ h1#space-shuttle {
 
 .sidebar-about h1#site-title a {
   color:#1c1d21;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: Helvetica;
   margin-top: 0;
   font-weight: 100;
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 .sidebar-about h1#site-title {
   margin-bottom:5px;
