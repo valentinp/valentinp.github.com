@@ -10,7 +10,7 @@ Below is the obligatory publications list. I believe strongly in effectively com
 <div id='publicationList'>
 <ol>
 <li>
-<strong>Peretroukhin V </strong>, Clement L, and Kelly J “Get to the Point: Active Covariance Scaling for Feature Tracking Through Motion Blur”. <em> To Appear </em> in the Scaling Up Active Vision workshop at ICRA 2015. (<a href='{{ site.url }}/assets/research_material/ICRA2015-Blur-Abstract.pdf'>Extended Abstract</a>, <a href='{{ site.url }}/assets/research_material/ICRA2015-Blur-Poster.pdf'>Poster</a>, <a href='{{ site.url }}/assets/research_material/IICRA2015-Blur-Presentation.pdf'>Slides</a>)
+<strong>Peretroukhin V </strong>, Clement L, and Kelly J “Get to the Point: Active Covariance Scaling for Feature Tracking Through Motion Blur”. <em> To Appear </em> in the Scaling Up Active Vision workshop at ICRA 2015. (<a href='{{ site.url }}/assets/research_material/ICRA2015-Blur-Abstract.pdf'>Extended Abstract</a>, <a href='{{ site.url }}/assets/research_material/ICRA2015-Blur-Poster.pdf'>Poster</a>, <a href='{{ site.url }}/assets/research_material/ICRA2015-Blur-Presentation.pdf'>Slides</a>)
 </li>
 <li>
 Clement L, <strong>Peretroukhin V </strong>, and Kelly J “The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter”. <em> To Appear </em> In Proceedings of the 12th Conference on Computer and Robot Vision (CRV). Halifax, Nova Scotia, 3-5 June 2015. (<a href='{{ site.url }}/assets/research_material/CRV2015-Filter-Supremacy-Paper.pdf'>Paper</a>, <a href='{{ site.url }}/assets/research_material/CRV2015-Filter-Supremacy-Presentation.pdf'> Slides </a>)
