@@ -4,11 +4,10 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            "Valentin Peretroukhin"
-tagline:          "Valentin's Homepage" 
+tagline:          "Valentin's Homepage"
 description:      'Ph.D. student in <a href="http://stars.utias.utoronto.ca">autonomous mobile robotics</a>. Aviation enthusiast. Technology lover. Sports geek.'
 url:              http://valentinp.com
 baseurl:          /
@@ -16,6 +15,3 @@ baseurl:          /
 author:
   name:           'Valentin Peretroukhin'
   url:            https://twitter.com/valentinp
-
-paginate:         5
-
