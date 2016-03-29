@@ -10,7 +10,7 @@ I am primarily interested in using machine learning techniques and apriori knowl
 <div id='publicationList'>
 <ol>
 <li>
-<strong>Peretroukhin V </strong>, Vega-Brown W, Roy N, Kelly, “<span class='udl'>PROBE-GK: Predictive Robust Estimation using Generalized Kernels</span>,” to appear in Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2016), Stockholm, Sweden, 2016.
+<strong>Peretroukhin V </strong>, Vega-Brown W, Roy N, Kelly, “<span class='udl'>PROBE-GK: Predictive Robust Estimation using Generalized Kernels</span>,” to appear in Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2016), Stockholm, Sweden, 2016. (<a href='{{ site.url }}/assets/research_material/ICRA2016-Peretroukhin-PROBE-GK-Paper.pdf'><i class="fa fa-file-text-o"></i> Pre-print Paper</a>)
 </li>
 <li>
 <strong>Peretroukhin V </strong>, Clement L, Giamou M, Kelly J “<span class='udl'>PROBE: predictive robust estimation for visual-inertial navigation</span>,” in Proceedings of the IEEE/RSJ international conference on intelligent robots and systems (IROS’15), Hamburg, Germany, 2015. (<a href='{{ site.url }}/assets/research_material/IROS2015-Peretroukhin-PROBE-Paper.pdf'><i class="fa fa-file-text-o"></i> Paper</a>, <a href='{{ site.url }}/assets/research_material/IROS2015-Peretroukhin-PROBE-Presentation.pdf'><i class="fa fa-desktop"></i> Slides</a>, <a href='https://www.youtube.com/watch?v=0YmdVJ0Be3Q'><i class="fa fa-video-camera"></i> Video</a>)
