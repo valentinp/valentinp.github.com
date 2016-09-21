@@ -4,16 +4,39 @@ title: Research
 tags: [Research, Papers, Conferences]
 ---
 
-I am primarily interested in using machine learning techniques and apriori knowledge to improve localization and visual inertial navivation within mobile autonomous robotics.
+I am primarily interested in using machine learning techniques and apriori knowledge to improve localization and visual inertial navigation within mobile autonomous robotics.
 
 <h3>Publications</h3>
 <div id='publicationList'>
 <ol>
+
+<li>
+ <span class='udl'>
+Reducing Drift in Visual Odometry by Inferring Sun Direction using a Bayesian Convolutional Neural Network</span>
+ <div class='research_desc'>
+Valentin Peretroukhin, Lee Clement, and Jonathan Kelly <br/>Submitted to the International Conference on Robotics and Automation (ICRA 2017) in Singapore.
+</div>
+<div class='research_links'>
+ (<a href='{{ site.url }}/assets/research_material/ICRA2017-Sun-BCNN.pdf'><i class="fa fa-file-text-o"></i> Paper</a>, <a href='http://arxiv.org/abs/1609.05993'><i class="fa fa-desktop"></i> arXiv</a>)
+</div>
+</li>
+
+<li>
+ <span class='udl'>
+Improving the Accuracy of Stereo Visual Odometry Using Visual Illumination Estimation</span>
+ <div class='research_desc'>
+Lee Clement, Valentin Peretroukhin, Jonathan Kelly <br/>To appear at the International Symposium on Experimental Robotics, Tokyo, Japan, 3-6 October 2016.
+</div>
+<div class='research_links'>
+ (<a href='{{ site.url }}/assets/research_material/ISER2016-Sun-VO.pdf'><i class="fa fa-file-text-o"></i> Paper</a>, <a href='http://arxiv.org/abs/1609.04705'><i class="fa fa-desktop"></i> arXiv</a>)
+</div>
+</li>
+
 <li>
 <a href="http://ieeexplore.ieee.org/document/7487212/"> <i class="fa fa-external-link"></i>
 PROBE-GK: Predictive Robust Estimation using Generalized Kernels</a>
  <div class='research_desc'>
-<strong>Peretroukhin V</strong>, Vega-Brown W, Roy N, Kelly J. <br/>Presented at the International Conference on Robotics and Automation (ICRA 2016) in Stockholm, Sweden.
+<strong>Peretroukhin V</strong>, Vega-Brown W, Roy N, Kelly J. <br/>In Proceedings of the International Conference on Robotics and Automation (ICRA 2016) in Stockholm, Sweden.
 </div>
 <div class='research_links'>
  (<a href='{{ site.url }}/assets/research_material/ICRA2016-Peretroukhin-PROBE-GK-Paper.pdf'><i class="fa fa-file-text-o"></i> Paper</a>, <a href='{{ site.url }}/assets/research_material/ICRA2016-Peretroukhin-PROBE-GK-Presentation.pdf'><i class="fa fa-desktop"></i> Slides</a>, <a href='{{ site.url }}/assets/research_material/ICRA2016-Peretroukhin-PROBE-GK-Poster.pdf'><i class="fa fa-picture-o"></i> Interactive Poster</a>)
@@ -25,7 +48,7 @@ PROBE-GK: Predictive Robust Estimation using Generalized Kernels</a>
  PROBE: Predictive Robust Estimation for visual-inertial navigation</a>
  <div class='research_desc'>
 <strong>Peretroukhin V</strong>, Clement L, Giamou M, Kelly J. <br/>
-Proceedings of the IEEE/RSJ international conference on intelligent robots and systems (IROS’15), Hamburg, Germany, 2015.
+Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS’15), Hamburg, Germany, 2015.
 </div>
 <div class='research_links'>
  (<a href='{{ site.url }}/assets/research_material/IROS2015-Peretroukhin-PROBE-Paper.pdf'><i class="fa fa-file-text-o"></i> Paper</a>, <a href='{{ site.url }}/assets/research_material/IROS2015-Peretroukhin-PROBE-Presentation.pdf'><i class="fa fa-desktop"></i> Slides</a>, <a href='https://www.youtube.com/watch?v=0YmdVJ0Be3Q'><i class="fa fa-video-camera"></i> Video</a>)
@@ -37,7 +60,7 @@ Proceedings of the IEEE/RSJ international conference on intelligent robots and s
 <span class='udl'>Get to the point: active covariance scaling for feature tracking through motion blur</span>
 <div class='research_desc'>
 <strong>Peretroukhin V</strong>, Clement L, and Kelly J. <br/>
- In Proceedings of the IEEE international conference on robotics and automation (ICRA) workshop on scaling up active perception, Seattle, Washington, USA, 2015.  
+ In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA) workshop on scaling up active perception, Seattle, Washington, USA, 2015.  
 </div>
 <div class='research_links'>
  (<a href='{{ site.url }}/assets/research_material/ICRA2015-Blur-Abstract.pdf'><i class="fa fa-file-text-o"></i> Extended Abstract</a>, <a href='{{ site.url }}/assets/research_material/ICRA2015-Blur-Poster.pdf'><i class="fa fa-picture-o"></i> Poster</a>, <a href='{{ site.url }}/assets/research_material/ICRA2015-Blur-Presentation.pdf'><i class="fa fa-desktop"></i> Slides</a>)
