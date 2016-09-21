@@ -10,12 +10,13 @@ I am primarily interested in using machine learning techniques and apriori knowl
 <div id='publicationList'>
 <ol>
 <li>
- <span class='udl'>PROBE-GK: Predictive Robust Estimation using Generalized Kernels</span>
+<a href="http://ieeexplore.ieee.org/document/7487212/"> <i class="fa fa-external-link"></i>
+PROBE-GK: Predictive Robust Estimation using Generalized Kernels</a>
  <div class='research_desc'>
-<strong>Peretroukhin V</strong>, Vega-Brown W, Roy N, Kelly J. <br/>To appear at the International Conference on Robotics and Automation (ICRA 2016) in Stockholm, Sweden.
+<strong>Peretroukhin V</strong>, Vega-Brown W, Roy N, Kelly J. <br/>Presented at the International Conference on Robotics and Automation (ICRA 2016) in Stockholm, Sweden.
 </div>
 <div class='research_links'>
-(<a href='{{ site.url }}/assets/research_material/ICRA2016-Peretroukhin-PROBE-GK-Paper.pdf'><i class="fa fa-file-text-o"></i> Pre-print Paper</a>)
+ (<a href='{{ site.url }}/assets/research_material/ICRA2016-Peretroukhin-PROBE-GK-Paper.pdf'><i class="fa fa-file-text-o"></i> Paper</a>, <a href='{{ site.url }}/assets/research_material/ICRA2016-Peretroukhin-PROBE-GK-Presentation.pdf'><i class="fa fa-desktop"></i> Slides</a>, <a href='{{ site.url }}/assets/research_material/ICRA2016-Peretroukhin-PROBE-GK-Poster.pdf'><i class="fa fa-picture-o"></i> Interactive Poster</a>)
 </div>
 </li>
 

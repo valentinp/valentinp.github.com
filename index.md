@@ -10,7 +10,7 @@ title: About Valentin
   <strong>Things I love:</strong> Design, Technology, Philosophy, Poetry, Chess, Sports.<br/>
 </p>
 
-![San Francisco Cruise.](/assets/sfvp.jpg)
+![San Francisco Cruise.](/assets/utiasvp.jpg)
 
 Howdy! I'm a Ph.D. candidate at the <a href="http://stars.utias.utoronto.ca/">STARS </a> (Space and Terrestrial Autonomous Robotic Systems) Lab at the University of Toronto's Institute for Aerospace Studies.
 I received my B.A.Sc also from the University of Toronto in Engineering Science (N&Psi;) majoring in Aerospace.
@@ -18,4 +18,4 @@ I received my B.A.Sc also from the University of Toronto in Engineering Science 
 
 My current research focuses on autonomous navigation within dynamic environments. I am working with <a href="http://www.jonathankelly.info">Professor Jonathan Kelly</a> on
 a predictive filtering approach that uses a learned model for both the process and observation noise covariance to improve the performance of
-visual inertial odometry techniques within highly dynamic, urban environments. 
+visual inertial odometry techniques within highly dynamic, urban environments.

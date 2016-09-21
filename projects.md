@@ -7,9 +7,9 @@ tags: [Work,Projects]
 <h3>Roles</h3>
 <ul>
 	<li>
-	<h4>Co-founder: <a href="http://getpillsy.com">Pillsy</a> </h4>
-	<img src='/assets/Pillsy.png' width='300px'/>
-	Pillsy is a smart pouch and app that lets women take birth control more effectively.
+	<h4>Co-founder: <a href="http://diempouch.com">Diem (formerly Pillsy)</a> </h4>
+	<img src='/assets/diem.png' width='300px'/>
+	Diem is a smart pouch and app that helps people take medication consistently.
 	</li>
 	<li><h4>President: <a href="http://arrow.utias.utoronto.ca/~asa/index.html">Aerospace Students Association</a> </h4>
 	<img src='/assets/ASA.png' width='300px' style='border:1px solid #ccc;'/>
