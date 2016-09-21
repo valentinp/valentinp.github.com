@@ -17,7 +17,7 @@ Reducing Drift in Visual Odometry by Inferring Sun Direction using a Bayesian Co
 Valentin Peretroukhin, Lee Clement, and Jonathan Kelly <br/>Submitted to the International Conference on Robotics and Automation (ICRA 2017) in Singapore.
 </div>
 <div class='research_links'>
- (<a href='{{ site.url }}/assets/research_material/ICRA2017-Sun-BCNN.pdf'><i class="fa fa-file-text-o"></i> Paper</a>, <a href='http://arxiv.org/abs/1609.05993'><i class="fa fa-desktop"></i> arXiv</a>)
+ (<a href='{{ site.url }}/assets/research_material/ICRA2017-Sun-BCNN.pdf'><i class="fa fa-file-text-o"></i> Paper</a>, <a href='http://arxiv.org/abs/1609.05993'><i class="fa fa-desktop"></i> arXiv</a>, <a href='http://arxiv.org/abs/1609.05993'><i class="fa fa-desktop"></i> <i class="fa fa-github-square"></i> Code</a>)
 </div>
 </li>
 
