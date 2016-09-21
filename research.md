@@ -6,7 +6,7 @@ tags: [Research, Papers, Conferences]
 
 I am primarily interested in using machine learning techniques and apriori knowledge to improve localization and visual inertial navigation within mobile autonomous robotics.
 
-<h3>Publications</h3>
+<h3>Upcoming</h3>
 <div id='publicationList'>
 <ol>
 
@@ -31,6 +31,9 @@ Lee Clement, Valentin Peretroukhin, Jonathan Kelly <br/>To appear at the Interna
  (<a href='{{ site.url }}/assets/research_material/ISER2016-Sun-VO.pdf'><i class="fa fa-file-text-o"></i> Paper</a>, <a href='http://arxiv.org/abs/1609.04705'><i class="fa fa-desktop"></i> arXiv</a>)
 </div>
 </li>
+</ol>
+<h3>Publications</h3>
+<ol>
 
 <li>
 <a href="http://ieeexplore.ieee.org/document/7487212/"> <i class="fa fa-external-link"></i>
