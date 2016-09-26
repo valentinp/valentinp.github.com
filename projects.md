@@ -2,6 +2,7 @@
 layout: page
 title: Work & Projects
 tags: [Work,Projects]
+order: 4
 ---
 
 <h3>Roles</h3>

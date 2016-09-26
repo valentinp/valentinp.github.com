@@ -7,7 +7,7 @@
         </a>
       </h1>
       <p class="sidebar-info">{{ site.description }}</p>
-          
+
     </div>
 
     <nav class="sidebar-nav">
@@ -16,7 +16,7 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages | sort:"name" %}
+      {% assign pages_list = site.pages | sort:"order" %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
@@ -25,14 +25,14 @@
         {% endif %}
       {% endfor %}
     </nav>
-      <p class="sidebar-info"> Contact me: 
-        <a href="http://twitter.com/valentinp"> <i class="fa fa-twitter-square"></i> 
+      <p class="sidebar-info"> Contact me:
+        <a href="http://twitter.com/valentinp"> <i class="fa fa-twitter-square"></i>
         <a href="http://github.com/valentinp"> <i class="fa fa-github-square"></i></a>
         <a href="http://plus.google.com/+ValentinPeretroukhin"> <i class="fa fa-google-plus-square"></i></a>
       </p>
 
 
-     <p class="sidebar-quote"> 
+     <p class="sidebar-quote">
        "As far as the laws of mathematics refer to reality, they are not certain, and as far as they are certain, they do not refer to reality." <br/>
        <em> <i class="fa fa-lightbulb-o"></i> Albert Einstein</em>
       </p>

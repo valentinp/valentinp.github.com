@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Valentin
+order: 1
 ---
 <p class="message">
   <strong>Name: </strong> Valentin Peretroukhin. (Russian in Origin, Born in Moscow) <br/>

@@ -2,12 +2,13 @@
 layout: page
 title: Teaching
 tags: [Teaching]
+order: 3
 ---
 I've had the pleasure of teaching two undergraduate courses at the University of Toronto. I love interacting with young, passionate students and coming up with engaging, clear lessons.
 <ol>
 <li>
 <h3>ESC103: Engineering Mathematics and Computation</h3>
-Fall 2013, 2014, 2015
+Fall 2013, 2014, 2015, 2016
 <img src='/assets/esc103.png' width='300px'/>
 </li>
 

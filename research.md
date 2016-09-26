@@ -2,6 +2,7 @@
 layout: page
 title: Research
 tags: [Research, Papers, Conferences]
+order: 2
 ---
 
 I am primarily interested in using machine learning techniques and apriori knowledge to improve localization and visual inertial navigation within mobile autonomous robotics.
