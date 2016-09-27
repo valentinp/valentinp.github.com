@@ -105,7 +105,11 @@ Stenning B E, Bajin L, Robson C, <strong>Peretroukhin V</strong>, Osinski G R, a
 In Proceedings of the International Conference on Field and Service Robotics (FSR). Brisbane, Australia, 9-11 December 2013.
 </div>
 </li>
+</ol>
 
+<h3>Unpublished Work</h3>
+<div id='publicationList'>
+<ol>
 <li>
 <span class='udl'>Effective Acceleration Levels Onboard the International Space Station.</span>
 <div class='research_desc'>
