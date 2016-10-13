@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 tags: [Teaching]
-order: 3
+order: 4
 ---
 I've had the pleasure of teaching two undergraduate courses at the University of Toronto. I love interacting with young, passionate students and coming up with engaging, clear lessons.
 <ol>

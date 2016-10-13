@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Valentin
+title: Valentin Peretroukhin
 order: 1
 ---
 <p class="message">
