@@ -11,7 +11,7 @@ order: 1
   <strong>Things I love:</strong> Design, Technology, Philosophy, Poetry, Chess, Sports.<br/>
 </p>
 
-![San Francisco Cruise.](/assets/utiasvp.jpg)
+![Valentin](assets/utiasvp.jpg)
 
 Howdy! I'm a Ph.D. candidate at the <a href="http://stars.utias.utoronto.ca/">STARS </a> (Space and Terrestrial Autonomous Robotic Systems) Lab at the University of Toronto's Institute for Aerospace Studies.
 I received my B.A.Sc also from the University of Toronto in Engineering Science (N&Psi;) majoring in Aerospace.
