@@ -13,6 +13,28 @@ I am primarily interested in using machine learning techniques and apriori knowl
 
 <li>
  <span class='udl'>
+Improving Foot-Mounted Inertial Navigation Through Real-Time Motion Classification</span>
+ <div class='research_desc'>
+Brandon Wagstaff, Valentin Peretroukhin, and Jonathan Kelly <br/>Submitted to the 2017 International Conference on Indoor Positioning and Indoor Navigation (IPIN) in Sapporo, Japan.
+</div>
+<div class='research_links'>
+</div>
+</li>
+
+<li>
+ <span class='udl'>
+Inferring Sun Direction to Improve Visual Odometry: A Deep Learning Approach </span>
+ <div class='research_desc'>
+Valentin Peretroukhin, Lee Clement, and Jonathan Kelly <br/>Submitted to the International Journal of Robotics Research.
+</div>
+<div class='research_links'>
+</div>
+</li>
+
+
+
+<li>
+ <span class='udl'>
 Reducing Drift in Visual Odometry by Inferring Sun Direction using a Bayesian Convolutional Neural Network</span>
  <div class='research_desc'>
 Valentin Peretroukhin, Lee Clement, and Jonathan Kelly <br/>To appear at the International Conference on Robotics and Automation (ICRA 2017) in Singapore.
@@ -22,19 +44,20 @@ Valentin Peretroukhin, Lee Clement, and Jonathan Kelly <br/>To appear at the Int
 </div>
 </li>
 
+
+</ol>
+<h3>Publications</h3>
+<ol>
 <li>
  <span class='udl'>
 Improving the Accuracy of Stereo Visual Odometry Using Visual Illumination Estimation</span>
  <div class='research_desc'>
-Lee Clement, Valentin Peretroukhin, Jonathan Kelly <br/>To appear at the International Symposium on Experimental Robotics, Tokyo, Japan, 3-6 October 2016.
+Lee Clement, <strong>Valentin Peretroukhin</strong>, Jonathan Kelly <br/>In Proceedings of the International Symposium on Experimental Robotics, Tokyo, Japan, 3-6 October 2016.
 </div>
 <div class='research_links'>
  (<a href='{{ site.url }}/assets/research_material/ISER2016-Sun-VO.pdf'><i class="fa fa-file-text-o"></i> Paper</a>, <a href='http://arxiv.org/abs/1609.04705'><i class="fa fa-desktop"></i> arXiv</a>)
 </div>
 </li>
-</ol>
-<h3>Publications</h3>
-<ol>
 
 <li>
 <a href="http://ieeexplore.ieee.org/document/7487212/"> <i class="fa fa-external-link"></i>
