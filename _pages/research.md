@@ -120,7 +120,7 @@ In proceedings of **FSR 2013** (International Conference on Field and Service Ro
 
 ---
 ## Teaching
-#### as a course instructor
+#### ... as a course instructor
 
 <div class="grid">
 <div class="unit one-third teaching_img">
