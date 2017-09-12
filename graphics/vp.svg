@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="115" height="71" viewBox="0 0 115 71">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        font-size: 100px;
+      }
+
+      .cls-2 {
+        fill: #e1e9f4;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: "Museo-700";
+      }
+
+      .cls-3 {
+        fill: #4072af;
+      }
+    </style>
+  </defs>
+  <text x="56" y="71" class="cls-1"><tspan class="cls-2">P</tspan></text>
+  <text x="-1" y="71" class="cls-1"><tspan class="cls-3">V</tspan></text>
+</svg>
