@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Research & Teaching
-subtitle: Research & Teaching
-desc: What I study and what I teach.
+title: Research
+subtitle: Research
+desc: My research.
 permalink: /research/
 ---
 
@@ -28,7 +28,7 @@ Submitted to **ICRA 2018** (International Conference on Robotics and Automation)
 
 <div class="grid">
 <div class="unit one-third pub_img">
-![Motion Clasification](/assets/img/papers/motion_classification.png)
+![Motion Classification](/assets/img/papers/motion_classification.png)
 </div>
 <div class="unit two-thirds">
 #### [Improving Foot-Mounted Inertial Navigation Through Real-Time Motion Classification](https://arxiv.org/abs/1707.01152)
@@ -115,56 +115,6 @@ In proceedings of **CRV 2014**. Presented in Montreal, Quebec.
 #### [Towards Autonomous Mobile Robots for the Exploration of Steep Terrain](https://link.springer.com/chapter/10.1007/978-3-319-07488-7_3)
 *Braden Stenning, Lauren Bajin, Christine Robson, Valentin Peretroukhin, Gordon R. Osinski and Timothy D. Barfoot*  
 In proceedings of **FSR 2013** (International Conference on Field and Service Robotics). Presented in Brisbane, Australia.  
-</div>
-</div>
-
----
-## Teaching
-#### ... as a course instructor
-
-<div class="grid">
-<div class="unit one-third teaching_img">
-![AER521](/assets/img/courses/aer521.png)
-</div>
-<div class="unit two-thirds">
-#### AER521: Mobile Robotics and Perception
-*Winter 2018*   
-This upcoming winter semester, I will be teaching a fourth year course on mobile autonomy and perception with my colleague Lee Clement. The course is open to both fourth year engineering students and graduate students, and I'm incredibly excited for the opportunity.
-</div>
-</div>
-
-#### ... as a teaching assistant
-
-<div class="grid">
-<div class="unit one-third teaching_img">
-![ESC103](/assets/img/courses/esc103.png)
-</div>
-<div class="unit two-thirds">
-#### ESC103: Engineering Mathematics and Computation  
-*Fall 2013, 2014, 2015, 2016, 2017*  
-ESC103 is a first year course in the Engineering Science division at the University of Toronto. It covers an array of topics in linear algebra, numerical computing and differential equations. I have taught two sections of students (typically 20 - 25 students each) for the last five years. In 2016, I was also the lab coordinator for the MATLAB section of the course.
-</div>
-</div>
-
-<div class="grid">
-<div class="unit one-third teaching_img">
-![CSC190](/assets/img/courses/engmath.png)
-</div>
-<div class="unit two-thirds">
-#### Engineering Problem Solving and Mathematics
-*Summer 2017*   
-I co-organized a week-long summer preparatory course for incoming first year engineering students. I taught two sessions of introductory MATLAB lessons, and then designed and implemented an RC-circuit laboratory that the students completed at the end of the course.
-</div>
-</div>
-
-<div class="grid">
-<div class="unit one-third teaching_img">
-![CSC190](/assets/img/courses/csc190.png)
-</div>
-<div class="unit two-thirds">
-#### CSC190: Computer Algorithms and Data Structures  
-*Winter 2015*   
-CSC190 is the second introductory computer science course taught to first year Engineering Science students. I had the pleasure of being a lab and marking TA during the winter of 2015. I taught fundamental data structures and algorithms in C.
 </div>
 </div>
 
