@@ -7,7 +7,7 @@ subtitle: Valentin Peretroukhin.
 
 {::nomarkdown} 
 <figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/valentin_peretroukhin.png">
+    <img src="{{ site.baseurl }}/assets/img/valentin_peretroukhin_iceland.png">
 </figure>
 {:/}
 
