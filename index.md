@@ -18,7 +18,7 @@ subtitle: Valentin Peretroukhin.
 
 I work in the [STARS Lab](http://www.starslab.ca) (Space & Terrestrial Autonomous Robotic Systems) under the supervision of *Professor Jonathan Kelly*.
 
-You can find my CV [here](/assets/pdf/valentin_peretroukhin_cv.pdf).
+You can find my CV [here](/assets/pdf/valentin_peretroukhin_cv.pdf). On the right is a picture of me at the Jökulsárlón glacial lake in southeast Iceland.
 
 ---
 </div>

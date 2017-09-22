@@ -181,15 +181,15 @@ p.post-desc {
 
 .site-profile {
   float: right;
-  width: 100px;
-  height: 118px;
+  width: 150px;
   margin: 0rem 1rem 0 $spacer;
+  border-radius: 10%;
+  overflow:hidden;
 }
 
 @include mq-up(md) {
   .site-profile {
-    width: 150px;
-    height: 178px;
+    width: 200px;
     margin: 0.2rem 0.2rem 0 1rem;
   }
 }
