@@ -3,7 +3,7 @@ layout: post
 title: Autumnal Epicureanism
 ---
 
-There is something about the crisp, cold autumnal air that awakens a deep, often-suppressed joie-de-vivre inside me. It is the type of feeling that brings an overwhelming sense of meaning. I think of Sartre and his essay, [Existentialism is a Humanism](https://en.wikipedia.org/wiki/Existentialism_and_Humanism). In it, Sartre presents the core problem of existentialism in a famous three-word phrase: ‘existence precedes essence’. We are thrust into existence without a purpose - and we are ‘condemned to be free,’ - to choose our own meaning for our life. 
+There is something about the crisp, cold autumnal air that awakens a deep, often-suppressed *joie de vivre* inside me. It is the type of feeling that brings an overwhelming sense of meaning. I think of Sartre and his essay, [Existentialism is a Humanism](https://en.wikipedia.org/wiki/Existentialism_and_Humanism). In it, Sartre presents the core problem of existentialism in a famous three-word phrase: ‘existence precedes essence’. We are thrust into existence without a purpose - and we are ‘condemned to be free,’ - to choose our own meaning for our life. 
 
 It’s an appealing premise, and one that I cannot deny during the lazy days of summer. But when the autumn arrives and the faint aroma of a distant campfire pierces through me, I think: is this essence? For some fleeting moment, this entangled existence of aroma and my perception of it seems to exist in-and-of-itself, and I do not feel independent of it.   
 
