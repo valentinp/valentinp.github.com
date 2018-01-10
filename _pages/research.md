@@ -14,6 +14,7 @@ permalink: /research/
 
 
 ## Publications
+### 2018
 <div class="grid">
 <div class="unit one-third pub_img">
 ![DPC-Net](/assets/img/papers/dpc-net.png)
@@ -21,10 +22,25 @@ permalink: /research/
 <div class="unit two-thirds">
 #### [DPC-Net: Deep Pose Correction for Visual Localization](https://arxiv.org/abs/1709.03128)
 *Valentin Peretroukhin and Jonathan Kelly*  
-Submitted to **ICRA 2018** (International Conference on Robotics and Automation) in Brisbane, Australia  
+To appear in Robotics and Automation Letters (RAL), submitted to **ICRA 2018** (International Conference on Robotics and Automation) in Brisbane, Australia  
 [<i class="fa fa-newspaper-o"></i> arXiv](https://arxiv.org/abs/1709.03128), [<i class="fa fa-github-square"></i> Code coming soon..](https://github.com/utiasSTARS/dpc-net)
 </div>
 </div>
+
+<div class="grid">
+<div class="unit one-third pub_img">
+![SUN-BCNN](/assets/img/papers/sun_bcnn.png)
+</div>
+<div class="unit two-thirds">
+#### [Inferring sun direction to improve visual odometry: A deep learning approach](http://journals.sagepub.com/doi/10.1177/0278364917749732)
+*Valentin Peretroukhin\*, Lee Clement\*, and Jonathan Kelly*  
+**International Journal of Robotics Research (IJRR)**, Special Issue on Experimental Robotics, 2018  
+\* *Equal contribution*
+</div>
+</div>
+
+### 2017
+
 
 <div class="grid">
 <div class="unit one-third pub_img">
@@ -41,16 +57,16 @@ To appear in **IPIN 2017** (International Conference on Indoor Positioning and I
 
 
 <div class="grid">
-<div class="unit one-third pub_img">
-![SUN-BCNN](/assets/img/papers/sun_bcnn.png)
-</div>
-<div class="unit two-thirds">
+<div class="unit whole">
 #### [Reducing Drift in Visual Odometry by Inferring Sun Direction using a Bayesian Convolutional Neural Network](http://arxiv.org/abs/1609.05993)
-*Valentin Peretroukhin, Lee Clement, and Jonathan Kelly*  
+*Valentin Peretroukhin\*, Lee Clement\*, and Jonathan Kelly*  
 Presented at **ICRA 2017** (International Conference on Robotics and Automation) in Singapore  
-[<i class="fa fa-newspaper-o"></i> arXiv](http://arxiv.org/abs/1609.05993), [<i class="fa fa-github-square"></i> Code](https://github.com/utiasSTARS/sun-bcnn-vo)
+[<i class="fa fa-newspaper-o"></i> arXiv](http://arxiv.org/abs/1609.05993), [<i class="fa fa-github-square"></i> Code](https://github.com/utiasSTARS/sun-bcnn-vo)  
+\* *Equal contribution*
 </div>
 </div>
+
+### 2016
 
 
 <div class="grid">
@@ -73,6 +89,8 @@ In proceedings of **ISER 2016**. Presented in Tokyo, Japan.
 [<i class="fa fa-newspaper-o"></i> arXiv](http://arxiv.org/abs/1609.04705)
 </div>
 </div>
+
+### 2015 and prior
 
 <div class="grid">
 <div class="unit whole">
