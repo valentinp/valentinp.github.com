@@ -70,6 +70,18 @@ You can find my CV [here](/assets/pdf/valentin_peretroukhin_cv.pdf). On the righ
 
 <div class="grid">
 <div class="unit whole">
+<strong> April, 2018 </strong> - After months of bad weather and cancelled lessons, I can finally say I'm a private pilot! I passed my flight test in late March. My girlfriend, Elyse, was my first passenger.
+</div>
+
+<div class="unit half pub_img">
+![Post-Solo Shower](/assets/img/events/ppl_first_flight_1.jpg)
+</div>
+
+<div class="unit half pub_img">
+![Final Approach](/assets/img/events/ppl_first_flight_2.jpg)
+</div>
+
+<div class="unit whole">
 <strong> August, 2017 </strong> - I've been working on my private pilot license (PPL) this summer at Burlington Executive Airport (CZBA). After two months of training, I finished my first solo flight (which means I was the only person in the aircraft). If you're interested in seeing the whole flight, I <a href="https://www.youtube.com/watch?v=kE3_-Uywr4U">
  recorded the whole thing on my GoPro <i class="fa fa-youtube-play" aria-hidden="true"></i></a>.
 </div>
