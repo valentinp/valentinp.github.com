@@ -20,10 +20,10 @@ permalink: /research/
 ![DPC-Net](/assets/img/papers/dpc-net.png)
 </div>
 <div class="unit two-thirds">
-#### [DPC-Net: Deep Pose Correction for Visual Localization](https://arxiv.org/abs/1709.03128)
+#### [DPC-Net: Deep Pose Correction for Visual Localization](https://ieeexplore.ieee.org/document/8125095/)
 *Valentin Peretroukhin and Jonathan Kelly*  
-To appear in Robotics and Automation Letters (RAL), submitted to **ICRA 2018** (International Conference on Robotics and Automation) in Brisbane, Australia  
-[<i class="fa fa-newspaper-o"></i> arXiv](https://arxiv.org/abs/1709.03128), [<i class="fa fa-github-square"></i> Code coming soon..](https://github.com/utiasSTARS/dpc-net)
+Robotics and Automation Letters (RAL) and **ICRA 2018** (International Conference on Robotics and Automation) in Brisbane, Australia  
+[<i class="fa fa-newspaper-o"></i> arXiv](https://arxiv.org/abs/1709.03128), [<i class="fa fa-github-square"></i> Code](https://github.com/utiasSTARS/dpc-net)
 </div>
 </div>
 
