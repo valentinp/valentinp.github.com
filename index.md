@@ -30,7 +30,7 @@ You can find my CV [here](/assets/pdf/valentin_peretroukhin_cv.pdf). On the righ
   <div class="grid no-gutters">
       <div class="unit whole">
         <div class="project">
-          <h4 class="project-title"><a href="https://github.com/utiasSTARS/dpc-net"><i class="fa fa-github" aria-hidden="true"></i> Deep Probabilistic Rotation Estimation</a></h4>
+          <h4 class="project-title"><a href="https://github.com/utiasSTARS/so3_learning"><i class="fa fa-github" aria-hidden="true"></i> Deep Probabilistic Rotation Estimation</a></h4>
           <p>Using a multi-head structure, we build a deep network that can regress uncertain estimates of rotation using quaternion averaging and noise injection. This work is currently published in the  <a href="https://sites.google.com/view/uncertainty2019">CVPR Workshop on Uncertainty in Visual Learning </a> as a <a href="http://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Peretroukhin_Deep_Probabilistic_Regression_of_Elements_of_SO3_using_Quaternion_Averaging_CVPRW_2019_paper.pdf"><i class="fa fa-file-text" aria-hidden="true"></i> workshop paper</a>.</p>
         </div>
       </div>
