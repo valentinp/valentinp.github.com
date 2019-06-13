@@ -29,7 +29,7 @@ This upcoming winter semester, I will be teaching a fourth year course on mobile
 </div>
 <div class="unit two-thirds">
 #### ESC103: Engineering Mathematics and Computation  
-*Fall 2013, 2014, 2015, 2016, 2017*  
+*Fall 2013, 2014, 2015, 2016, 2017, 2018*  
 ESC103 is a first year course in the Engineering Science division at the University of Toronto. It covers an array of topics in linear algebra, numerical computing and differential equations. I have taught two sections of students (typically 20 - 25 students each) for the last five years. In 2016, I was also the lab coordinator for the MATLAB section of the course.
 </div>
 </div>

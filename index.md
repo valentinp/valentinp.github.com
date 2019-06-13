@@ -30,9 +30,17 @@ You can find my CV [here](/assets/pdf/valentin_peretroukhin_cv.pdf). On the righ
   <div class="grid no-gutters">
       <div class="unit whole">
         <div class="project">
+          <h4 class="project-title"><a href="https://github.com/utiasSTARS/dpc-net"><i class="fa fa-github" aria-hidden="true"></i> Deep Probabilistic Rotation Estimation</a></h4>
+          <p>Using a multi-head structure, we build a deep network that can regress uncertain estimates of rotation using quaternion averaging and noise injection. This work is currently published in the  <a href="https://sites.google.com/view/uncertainty2019">CVPR Workshop on Uncertainty in Visual Learning </a> as a <a href="http://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Peretroukhin_Deep_Probabilistic_Regression_of_Elements_of_SO3_using_Quaternion_Averaging_CVPRW_2019_paper.pdf"><i class="fa fa-file-text" aria-hidden="true"></i> workshop paper</a>.</p>
+        </div>
+      </div>
+  </div><!-- grid -->
+
+  <div class="grid no-gutters">
+      <div class="unit whole">
+        <div class="project">
           <h4 class="project-title"><a href="https://github.com/utiasSTARS/dpc-net"><i class="fa fa-github" aria-hidden="true"></i> DPC-Net: Deep Pose Correction</a></h4>
-          <p>Deep Pose Correction Network (DPC-Net) is a deep learning approach to achieving accurate, robust visual localization by correcting existing geometric, probabilistic estimators. I've submitted a first <a href="https://arxiv.org/abs/1709.03128"><i class="fa fa-file-text" aria-hidden="true"></i>
- paper</a> about DPC-Net to <a href="http://www.icra2018.org/">ICRA 2018</a> (with the RA-L option). </p>
+          <p>Deep Pose Correction Network (DPC-Net) is a deep learning approach to achieving accurate, robust visual localization by correcting existing geometric, probabilistic estimators. It's been  <a href="https://ieeexplore.ieee.org/document/8125095"><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in Robotics and Automation Letters (and presented at ICRA 2018).</p>
         </div>
       </div>
   </div><!-- grid -->
@@ -69,16 +77,21 @@ You can find my CV [here](/assets/pdf/valentin_peretroukhin_cv.pdf). On the righ
 
 
 <div class="grid">
+
+<div class="unit whole">
+<strong> May, 2019 </strong> - After months of planning, my colleagues Lee, Matt and supervisor Jonathan Kelly organized a <a href="http://roboticsdebates.org">debates workshop at ICRA 2019</a>. We were elated to see a fantastic turn-out for all three debates (plus lightning talks) and a ton of great feedback!
+</div>
+
+<div class="unit half pub_img">
+![Post-Solo Shower](/assets/img/events/icra_debates_ws_1.jpg)
+</div>
+
+<div class="unit half pub_img">
+![Final Approach](/assets/img/events/icra_debates_ws_2.jpg)
+</div>
+
 <div class="unit whole">
 <strong> April, 2018 </strong> - After months of bad weather and cancelled lessons, I can finally say I'm a private pilot! I passed my flight test in late March. My girlfriend, Elyse, was my first passenger.
-</div>
-
-<div class="unit half pub_img">
-![Post-Solo Shower](/assets/img/events/ppl_first_flight_1.jpg)
-</div>
-
-<div class="unit half pub_img">
-![Final Approach](/assets/img/events/ppl_first_flight_2.jpg)
 </div>
 
 <div class="unit whole">

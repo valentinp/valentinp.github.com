@@ -14,6 +14,19 @@ permalink: /research/
 
 
 ## Publications
+### 2019
+<div class="grid">
+<div class="unit one-third pub_img">
+![DPC-Net](/assets/img/papers/so3_learning.png)
+</div>
+<div class="unit two-thirds">
+#### [Deep Probabilistic Regression of Elements of SO(3)](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Peretroukhin_Deep_Probabilistic_Regression_of_Elements_of_SO3_using_Quaternion_Averaging_CVPRW_2019_paper.pdf)
+*Valentin Peretroukhin, Brandon Wagstaff, and Jonathan Kelly*  
+CVPR 2019 Workshop on Uncertainty and Robustness in Deep Visual Learning in Long Beach, USA  
+[<i class="fa fa-github-square"></i> Code](https://github.com/utiasSTARS/so3_learning)
+</div>
+</div>
+
 ### 2018
 <div class="grid">
 <div class="unit one-third pub_img">
