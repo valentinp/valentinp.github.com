@@ -13,8 +13,6 @@ You are my sun, my shade, my fire
 Until the howl and silence are one the same;  
 until we meet  
 our Maker,  
-join me, my love,  
-to chase the storm  
-and breathe the air    
+join me, my love, to chase the storm and breathe the air  
 For when we find the pale horse  
-we will stand together, unafraid. 
+We will stand together, unafraid. 
