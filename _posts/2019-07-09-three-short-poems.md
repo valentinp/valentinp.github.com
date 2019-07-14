@@ -18,11 +18,17 @@ my strength and sorrow
 
 *Poem 2*
 
-The tender night  
-Lulls my restless mind  
-And thoughts of you  
+The night is young  
+And full of terror  
+And you  
 Ooze like honey  
-Sweetening every dream  
+Seeping into my every thought  
+
+A saccharine lullaby  
+A sweet dose of ambien  
+You lull me to sleep  
+As the halcyon darkness  
+Fills the room with silence
 
 *Poem 3*
 
