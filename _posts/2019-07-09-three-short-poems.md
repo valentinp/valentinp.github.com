@@ -18,17 +18,15 @@ my strength and sorrow
 
 *Poem 2*
 
-The night is young  
-And full of terror  
-And you  
-Ooze like honey  
-Seeping into my every thought  
+At dusk,  
+You ooze like honey   
+Seeping into every    
+Crevace of my thoughts  
 
-A saccharine lullaby  
-A sweet dose of ambien  
-You lull me to sleep  
-As the halcyon darkness  
-Fills the room with silence
+At dawn--you  
+Numb like venom,  
+Destroying everything  
+I built in darkness
 
 *Poem 3*
 
