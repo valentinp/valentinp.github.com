@@ -20,7 +20,7 @@ my strength and sorrow
 
 You ooze like honey  
 in the evening light  
-Seeping into every crevace    
+Seeping into every crevice    
 of my saccharine mind  
 
 The eastern rays  
