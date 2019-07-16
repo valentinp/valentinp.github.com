@@ -124,6 +124,9 @@ Below you'll find a recent medley of things I really enjoy and love recommending
 Jonathan Franzen on David Foster Wallace and loneliness.
 + [My Family's Slave](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/)
 Alex Tizon on Lola, a woman who helped raise him.
++ [Lear, Tolstoy and the Fool](http://www.orwell.ru/library/essays/lear/english/e_ltf)
+George Orwell on why Tolstoy wasn't a fan of Shakespeare.
+
 
 ### Books
 
