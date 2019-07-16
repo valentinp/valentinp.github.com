@@ -18,14 +18,14 @@ my strength and sorrow
 
 *Poem 2*
 
-You ooze like honey
-in the evening light
-Seeping into every crevace  
-of my saccharine mind
+You ooze like honey  
+in the evening light  
+Seeping into every crevace    
+of my saccharine mind  
 
-The eastern rays
-Dissolve your sickly shadow
-And flood my veins 
+The eastern rays  
+Dissolve your sickly shadow  
+And flood my veins  
 With the world unseen
 
 
