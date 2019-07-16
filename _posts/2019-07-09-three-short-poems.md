@@ -24,9 +24,9 @@ Seeping into every crevace
 of my saccharine mind  
 
 The eastern rays  
-Dissolve your sickly shadow  
+dissolve your sickly shadow  
 And flood my veins  
-With the world unseen
+with the world unseen
 
 
 *Poem 3*
