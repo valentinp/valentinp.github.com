@@ -18,15 +18,16 @@ my strength and sorrow
 
 *Poem 2*
 
-At dusk,  
-You ooze like honey   
-Seeping into every    
-Crevace of my thoughts  
+You ooze like honey
+in the evening light
+Seeping into every crevace  
+of my saccharine mind
 
-At dawn--you  
-Numb like venom,  
-Destroying everything  
-I built in darkness
+The eastern rays
+Dissolve your sickly shadow
+And flood my veins 
+With the world unseen
+
 
 *Poem 3*
 
