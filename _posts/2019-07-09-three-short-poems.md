@@ -8,13 +8,13 @@ Three short poems:
 *Poem 1*
 
 In howling storms  
-In silent meadows  
+And silent meadows  
 In dawn perennial with its dusk  
 And sun eternal in its firmament  
 In darkness and in light  
-there lies my love for you  
-my shade, my warmth  
-my strength and sorrow  
+There lies my love for you  
+My shade, my warmth  
+My strength and sorrow  
 
 *Poem 2*
 
@@ -28,27 +28,26 @@ dissolve your sickly shadow
 And flood my veins  
 with the world unseen
 
-
 *Poem 3*
 
-What is the flower?  
-Without the frost  
-An everlasting symbol  
-Signifying nothing 
+What is the flower?    
+Without the frost    
+An everlasting symbol      
+Signifying nothing  
 
-Meaningless, utterly meaningless  
-We are eternally good  
-You whisper  
-The great unknown  
-Awaits
+Meaningless  
+Utterly meaningless!  
+We are eternally good (you whisper)  
+Yet great awaits
 
-I stand still  
-Petrified and frozen  
 What is the winter?  
-Without the bud that drives through  
-The thawed earth  
-In March 
+Without the bud  
+A frozen vanity  
+Rife with matter    
+yet numb to glory  
 
-I love you still  
-In winter and in spring
+Beyond the western rim  
+Where spring begins  
+Yet winter chills  
+I love you still (I whisper)  
 
