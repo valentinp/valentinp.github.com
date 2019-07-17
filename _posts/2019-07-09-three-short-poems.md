@@ -42,7 +42,7 @@ What is the winter?
 Without the bud  
 A frozen vanity  
 Rife with matter    
-yet numb to glory  
+Yet numb to glory  
 
 Beyond the western rim  
 Where spring begins  
