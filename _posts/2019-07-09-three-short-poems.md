@@ -3,8 +3,6 @@ layout: post
 title: Three Short Poems
 ---
 
-Three short poems:
-
 *Poem 1*
 
 In howling storms  
