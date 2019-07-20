@@ -129,12 +129,13 @@ George Orwell on why Tolstoy wasn't a fan of Shakespeare.
 
 
 ### Books
++ [A Confession - Leo Tolstoy](https://www.goodreads.com/book/show/26244.A_Confession)
++ [Sapiens: A Brief History of Humankind - Yuval Noah Harari](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
++ [Frankenstein; or, The Modern Prometheus - Mary Shelley](https://en.wikipedia.org/wiki/Frankenstein)
++ [Blood Meridian or the Evening Redness in the West - Cormac McCarthy](https://en.wikipedia.org/wiki/Blood_Meridian)
++ [The Ones Who Walk Away from Omelas - Ursula K. Le Guin](https://www.goodreads.com/book/show/92625.The_Ones_Who_Walk_Away_from_Omelas)
++ [Fallen Leaves: Last Words on Life, Love, War, and God - Will Durant](https://www.goodreads.com/book/show/21412198-fallen-leaves)
 
-+ [Sapiens: A Brief History of Humankind](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
-+ [Frankenstein; or, The Modern Prometheus](https://en.wikipedia.org/wiki/Frankenstein)
-+ [Blood Meridian or the Evening Redness in the West](https://en.wikipedia.org/wiki/Blood_Meridian)
-+ [The Story of Philosophy](https://en.wikipedia.org/wiki/The_Story_of_Philosophy)
-+ [Fallen Leaves: Last Words on Life, Love, War, and God](https://www.goodreads.com/book/show/21412198-fallen-leaves)
 
 <!-- ### Music & Misc
 <div class="grid">
