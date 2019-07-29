@@ -18,12 +18,11 @@ The dawn is near
 
 *Poem 2*
 
-You ooze like honey  
-in the evening light  
-Seeping into every crevice  
-of my saccharine mind
-
-The eastern rays  
-dissolve your sickly shadow   
-And flood my veins  
-with the world unseen
+The augusta gorge  
+Weaves its way through  
+Painted corners and  
+Forgotten flora  
+The musk and dirt and chaos  
+beat with the fervour  
+Of lives unsullied  
+And life set free
