@@ -11,7 +11,7 @@ subtitle: Valentin Peretroukhin.
 </figure>
 {:/}
 
-<div class="lead lead-about">My name is Valentin. I'm a Ph.D. candidate the University of Toronto working on ways that machine learning can be used to improve localization for autonomous mobile robots. In my spare time, I fly, listen to philosophy podcasts, and try to make sure I have read more than 50% of the books I own. 
+<div class="lead lead-about">My name is Valentin. I'm a Ph.D. candidate the University of Toronto working on ways that machine learning can be used to improve localization for autonomous mobile robots. In my spare time, I fly, I sport, I listen to philosophy podcasts ([VBW](https://verybadwizards.fireside.fm)!), and I try (with little success) to make sure I have read more than half of the books I own. 
 </div>
 
 
