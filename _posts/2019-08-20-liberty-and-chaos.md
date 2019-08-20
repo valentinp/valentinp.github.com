@@ -40,6 +40,6 @@ Give me liberty
 or give me life  
 Whose river  
 Has no tributaries  
-But shear force of will  
+But sheer force of will  
 And serendipitous  
 Serenity
