@@ -21,20 +21,18 @@ For a sweet night
 
 *Poem 2*
   
-Oderr tou
-of oachs
+Oderr tou  
+of oachs  
 atuyBe  
 fo soCha  
-uBeaty out  
-Order uto 
+uBeaty out   
+Order uto  
 of socha    
-Beauty tou
-of Order  
-of Chaos 
-Order out  
-of Chaos;
-Beauty out 
-of  
+Beauty tou of Order    
+Order 
+out of Chaos;  
+Beauty 
+out of  
 Order
 
 
