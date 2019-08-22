@@ -3,14 +3,14 @@ layout: post
 title: Liberty, Chaos and Solitude
 ---
 
-Three poems on liberty, chaos, and solitude. Long live them all.
+Three poems on liberty, chaos, and solitude. 
 
 *Poem 1*
 
 To the forgotten fruit  
 Of times immemorial  
 To the blood red mulberry  
-the lunar currant  
+the lunar currant
 the vermiculated gooseberry  
 Whose drops of sour nectar  
 Drip and dry  
