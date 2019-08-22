@@ -37,9 +37,9 @@ of Chaos
 *Poem 3*
 
 Give me liberty  
-or give me life  
+Or give me life  
 Whose river  
-Has no tributaries  
+Knows no tributaries  
 But sheer force of will  
 And serendipitous  
 Serenity
