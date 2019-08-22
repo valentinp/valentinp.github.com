@@ -20,19 +20,22 @@ Desiccates the mourning
 For a sweet night  
 
 *Poem 2*
-
-atFralc  
+  
+Oderr tou
+of oachs
 atuyBe  
-soCha  
+fo soCha  
 uBeaty out  
-ctaalFr  
-Beatyu fo  
-Fractla  
-Beauty tou  
-Chaos of  
-Fractal  
-Beauty out  
-of Chaos  
+Order uto 
+of socha    
+Beauty tou
+of Order  
+of Chaos 
+Order out  
+of Chaos
+Beauty out 
+of Order
+
 
 *Poem 3*
 
