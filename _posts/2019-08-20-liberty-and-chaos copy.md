@@ -32,9 +32,10 @@ Beauty tou
 of Order  
 of Chaos 
 Order out  
-of Chaos
+of Chaos;
 Beauty out 
-of Order
+of  
+Order
 
 
 *Poem 3*
