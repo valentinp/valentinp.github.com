@@ -38,9 +38,9 @@ navigation:
   - title: Projects
     url: /projects/
     desc: Projects aside from graduate school
-  - title: Blog
+  - title: Prose and Poetry
     url: /blog/
-    desc: Learn about me
+    desc: My writing
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
