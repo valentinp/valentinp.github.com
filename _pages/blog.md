@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prose and Poetry
-subtitle: My thoughts and musings.
+subtitle:  Prose and Poetry
 desc: Thoughts of a lost graduate student.
 permalink: /blog/
 ---
