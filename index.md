@@ -11,7 +11,7 @@ subtitle: Valentin Peretroukhin.
 </figure>
 {:/}
 
-<div class="lead lead-about">My name is Valentin. I'm a Ph.D. candidate the University of Toronto working on ways that machine learning can be used to improve localization for autonomous mobile robots. In my spare time, I fly, I sport, I listen to philosophy podcasts ([VBW](https://verybadwizards.fireside.fm)!), and I try (with little success) to make sure I have read more than half of the books I own. 
+<div class="lead lead-about">My name is Valentin. I'm a Ph.D. candidate the University of Toronto working on ways that machine learning can be used to improve egomotion estimation for autonomous mobile robots. I am a fan of philosophy, aviation, sports, food and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Neutral Milk Hotel, Bon Iver, Kanye West, Cormac McCarthy, Will Durant, Ilya Repin, Charlie Kaufman, Louis C.K., Norm Macdonald, and Dylan Thomas. 
 </div>
 
 

@@ -3,9 +3,7 @@
 # Site settings
 title: Valentin Peretroukhin               # used for the html title of every page
 desc: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal website of Valentin Peretroukhin.
 
 url: http://valentinp.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
@@ -15,6 +13,7 @@ permalink: /:year/:title/   # how should we display posts url
 email: valentinp@gmail.com
 author: Valentin Peretroukhin
 twitter_username: valentinp
+github: [metadata]
 github_username: valentinp
 github_source: jackal
 
@@ -64,7 +63,7 @@ include:
 exclude:
   - README.md
   - vendor
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-font-awesome-sass
 
