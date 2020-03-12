@@ -65,6 +65,20 @@
   background-color: $gray-dark;
 }
 
+.project-img {
+  border: 1px solid #ccc;
+  border-radius: 2%;
+  width: 95%;
+  margin: 2% 0;
+}
+
+.news-item img {
+  border-radius: 2%;
+  border: 1px solid #ccc;
+  width: 95%;
+  margin: 2% 0;
+}
+
 // PAGE ARTICLES & POST ====================================
 
 .post-list {
@@ -180,16 +194,16 @@ p.post-desc {
 }
 
 .site-profile {
-  float: right;
-  width: 150px;
-  margin: 0rem 1rem 0 $spacer;
-  border-radius: 10%;
+  float: left;
+  width: 200px;
+  margin: 0rem $spacer 0 1rem;
+  border-radius: 5%;
   overflow:hidden;
 }
 
 @include mq-up(md) {
   .site-profile {
-    width: 200px;
-    margin: 0.2rem 0.2rem 0 1rem;
+    width: 325px;
+    margin: 0.2rem 1rem 0 0.2rem;
   }
 }
