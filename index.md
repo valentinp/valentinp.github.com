@@ -20,7 +20,7 @@ I did my doctoral work in the [STARS Lab](http://www.starslab.ca) (Space & Terre
 
 I am currently co-chairing the [RSS Pioneers workshop](https://sites.google.com/view/rsspioneers2020), and I am the web chair for [CoRL 2020](https://www.robot-learning.org/).
 
-Please refer to [<i class="fa fa-file-text" aria-hidden="true"></i> my curriculum vitae](/assets/pdf/valentin_peretroukhin_cv.pdf) and my [<i class="fa fa-flask" aria-hidden="true"></i> Google Scholar](https://scholar.google.com/citations?user=kvnYd8sAAAAJ) for more detailed publication lists. In my spare time, I love reading (especially *Weil, Schopenhauer, Blake, McCarthy, and Tolstoy*), playing sports (especially *soccer, hockey, and basketball*) and flying (I received my pilot's license in 2018).  
+Please refer to [<i class="fa fa-file-text" aria-hidden="true"></i> my curriculum vitae](/assets/pdf/valentin_peretroukhin_cv.pdf) and my [<i class="fa fa-flask" aria-hidden="true"></i> Google Scholar](https://scholar.google.com/citations?user=kvnYd8sAAAAJ) for more detailed publication lists. In my spare time, I love reading poetry and literature (especially *Weil, Schopenhauer, Blake, Thomas, McCarthy, and Tolstoy*), playing sports (especially *soccer, hockey, and basketball*) and flying (I received my pilot's license in 2018).  
 <!-- On the right is a picture of me at the Jökulsárlón glacial lake in southeast Iceland. -->
 
 ---
