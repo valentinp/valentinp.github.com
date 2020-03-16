@@ -8,7 +8,7 @@ permalink: /blog/
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Writing is tough. Ideas seem profound until you try to write them down. Often the deep, complex thought is turned into a nebulous soup of trivialities and trite clichés. But, nevertheless, the writer presses on, constantly searching for that rush of excitement that comes from reading one's own words and thinking, 'that's...that's pretty good.' Here are my attempts.
+<div class="lead lead-about">Writing is tough. Ideas seem profound until one writes them down. Often the ostensibly deep, complex thought is turned into a nebulous soup of trivialities and trite clichés. But, nevertheless, the writer presses on, constantly searching for that rush of excitement that comes from reading one's own words and thinking, 'that's...that's pretty good.' Here are my attempts.
 </div>
 ---
 
