@@ -3,7 +3,7 @@ layout: page
 title: Bingham Rotation Learning
 subtitle:  Representing SO(3) for Deep Learning
 desc: Website for RSS (2020) paper on learning rotation
-permalink: /bingham-rotation-learning
+permalink: /bingham-rotation-learning/
 ---
 
 <div class="pretty-links">
