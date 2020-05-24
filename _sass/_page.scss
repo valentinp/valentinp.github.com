@@ -207,3 +207,27 @@ p.post-desc {
     margin: 0.2rem 1rem 0 0.2rem;
   }
 }
+
+
+// Specific Pages
+
+.paper_info .paper_title {
+  font-size: 200%;
+}
+
+.paper_info .paper_title span {
+  font-weight: 800;
+}
+.paper_info .paper_authors {
+  font-size: 125%;
+  color: $dark-blue;
+  display:block;
+}
+.paper_info .paper_venue {
+  font-size: 110%;
+  display:block;
+}
+
+.paper_links h2 {
+  margin: 0.25em 0 0.5em 0;
+}
