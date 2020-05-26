@@ -17,7 +17,7 @@ There are many ways to represent rotations: Euler angles, rotation matrices, axi
 
 <div class="paper_info">
 <span class='paper_title'>A Smooth Representation of <span>SO(3)</span> for Deep Rotation Learning with Uncertainty </span>
-<span class='paper_authors'>Valentin Peretroukhin, Matthew Giamou, David Rosen, W. Nicholas Greene, Nicholas Roy, and Jonathan Kelly </span>
+<span class='paper_authors'>Valentin Peretroukhin, Matthew Giamou, David M. Rosen, W. Nicholas Greene, Nicholas Roy, and Jonathan Kelly </span>
 <span class='paper_venue'>To appear in Robotics: Science and Systems (RSS) 2020 </span>
 
 ---
