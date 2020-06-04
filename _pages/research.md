@@ -13,20 +13,58 @@ permalink: /research/
 </div>
 
 
-## Publications
+## Selected Publications
+
+### 2020
+<div class="grid">
+<div class="unit one-third pub_img">
+![](/assets/img/papers/bingham_learning.png)
+</div>
+<div class="unit two-thirds">
+#### [A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty](https://arxiv.org/abs/2006.01031)
+*Valentin Peretroukhin, Matthew Giamou, David M. Rosen, W. Nicholas Greene, Nicholas Roy, Jonathan Kelly*  
+**Robotics: Science and Systems (RSS)**, 2020  
+[<i class="fa fa-github-square"></i> Code](https://github.com/utiasSTARS/bingham-rotation-learning), [<i class="fa fa-newspaper-o"></i> arXiv](https://arxiv.org/abs/2006.01031)
+</div>
+</div>
+
+<div class="grid">
+<div class="unit half pub_img">
+![](/assets/img/papers/phd_thesis.png)
+</div>
+<div class="unit half">
+#### [ Learned Improvements to the Visual Egomotion Pipeline ](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf)
+*Valentin Peretroukhin*  
+Ph.D. Thesis  
+University of Toronto, 2020  
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Document](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf)
+</div>
+</div>
+
 ### 2019
 <div class="grid">
 <div class="unit one-third pub_img">
-![DPC-Net](/assets/img/papers/so3_learning.png)
+![](/assets/img/papers/pyshoe.png)
+</div>
+<div class="unit two-thirds">
+#### [ Robust Data-Driven Zero-Velocity Detection for Foot-Mounted Inertial Navigation ](https://ieeexplore.ieee.org/abstract/document/8852673)
+*Brandon Wagstaff, Valentin Peretroukhin and Jonathan Kelly*  
+*IEEE Sensors Journal*, 2019  
+[<i class="fa fa-github-square"></i> Code](https://github.com/utiasSTARS/pyshoe), [<i class="fa fa-newspaper-o"></i> arXiv](https://arxiv.org/abs/1904.03182)
+</div>
+</div>
+
+<div class="grid">
+<div class="unit one-third pub_img">
+![](/assets/img/papers/so3_learning.png)
 </div>
 <div class="unit two-thirds">
 #### [Deep Probabilistic Regression of Elements of SO(3)](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Peretroukhin_Deep_Probabilistic_Regression_of_Elements_of_SO3_using_Quaternion_Averaging_CVPRW_2019_paper.pdf)
 *Valentin Peretroukhin, Brandon Wagstaff, and Jonathan Kelly*  
 CVPR 2019 Workshop on Uncertainty and Robustness in Deep Visual Learning in Long Beach, USA  
-[<i class="fa fa-github-square"></i> Code](https://github.com/utiasSTARS/so3_learning)
+[<i class="fa fa-github-square"></i> Code](https://github.com/utiasSTARS/so3_learning), [<i class="fa fa-newspaper-o"></i> arXiv](https://arxiv.org/abs/1709.03128)
 </div>
 </div>
-
 ### 2018
 <div class="grid">
 <div class="unit one-third pub_img">
