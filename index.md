@@ -13,7 +13,7 @@ subtitle: Valentin Peretroukhin
 
 <div class="lead lead-about">Hey! My name is Valentin. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust perception. 
 
-I obtained my Ph.D. from the University of Toronto. I will be a postdoctoral research scholar in the [Robust Robotics Group](http://groups.csail.mit.edu/rrg/) at MIT CSAIL starting in September, 2020. 
+I recently defended my Ph.D. at the University of Toronto. I will be a postdoctoral research scholar in the [Robust Robotics Group](http://groups.csail.mit.edu/rrg/) at MIT CSAIL starting in September, 2020. 
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->

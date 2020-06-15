@@ -9,7 +9,7 @@ permalink: /research/
 <div class="pretty-links">
 
 <div class="lead lead-about">You may find a selection of my publications below. For a more thorough list, please refer to my [<i class="fa fa-flask"></i>
- Google Scholar](https://scholar.google.ca/citations?user=kvnYd8sAAAAJ).
+ Google Scholar](https://scholar.google.ca/citations?user=kvnYd8sAAAAJ) or my [<i class="fa fa-file-text" aria-hidden="true"></i> curriculum vitae](/assets/pdf/valentin_peretroukhin_cv.pdf).
 </div>
 
 
