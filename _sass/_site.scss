@@ -1,8 +1,11 @@
 .site {
   margin-right: auto;
   margin-left: auto;
-  padding: 0 $spacer;
+  padding: 0 $spacer $spacer $spacer;
   @include make-container();
+  background: #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+  border-radius: 0.5em;
 }
 
 // RESPONSIVE SITE
@@ -15,7 +18,8 @@
 // SITE HEADER ====================================
 
 .site-header {
-  margin: $spacer2 0 $spacer1;
+  margin: $spacer1 0 $spacer1;
+  padding-top: $spacer0;
   @include clearfix();
 }
 
@@ -40,6 +44,7 @@
   padding: 0 .25rem;
   transition: background 0.1s ease-out;
   background-color: lighten($brand-light-color, 5%);
+  border-radius: 5px;
   
   &:hover {
     text-decoration: none;
@@ -63,7 +68,7 @@
 
 @include mq-up(sm) {
   .site-header {
-    margin: $spacer2 0 $spacer2;
+    margin: $spacer1 0 $spacer2;
   }
 
   .site-title {
@@ -108,6 +113,7 @@
 .site-footer {
   margin: 4rem 0 6rem;
   padding-top: $spacer1;
+  padding-bottom: $spacer1;
   font-family: $font-heading;
   border-top: 1px solid $brand-light-color;
 }

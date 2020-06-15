@@ -26,15 +26,15 @@ I did my doctoral work in the [STARS Lab](http://www.starslab.ca) (Space & Terre
 <div class="grid news-about">
 <div class="unit golden-large news">
 
-### Recent news
+<h3> <i class="fa fa-newspaper-o"></i> Recent news </h3>
 
-I am currently
+I am currently...
 * co-chairing the 2020 [RSS Pioneers](https://sites.google.com/view/rsspioneers2020) workshop;
 * helping to organize the [Power On And Go (POGO)](https://www.power-on-and-go.net/) RSS (2020) workshop; and 
 * the web chair for the upcoming [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/). 
 
-Recently,
-* my paper titled *A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty* ([<i class="fa fa-newspaper-o"></i> arXiv preprint](https://arxiv.org/abs/2006.01031)) was accepted to RSS (2020)!
+Recently...
+* my paper titled *A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty* ([<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031)) was accepted to RSS (2020)!
 * I co-organized a second vitual edition of the [ICRA Debates](https://roboticsdebates.org) workshop, (first held at ICRA 2019 in Montreal). We have over 1100 unique viewers of our live stream!
 </div>
 
