@@ -8,7 +8,7 @@ permalink: /research/
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Here's an exhaustive list of publications I've worked on during my graduate and undergraduate career at the University of Toronto. For more citation information, refer to my [<i class="fa fa-flask"></i>
+<div class="lead lead-about">You may find a selection of my publications below. For a more thorough list, please refer to my [<i class="fa fa-flask"></i>
  Google Scholar](https://scholar.google.ca/citations?user=kvnYd8sAAAAJ).
 </div>
 

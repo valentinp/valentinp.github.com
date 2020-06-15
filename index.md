@@ -11,7 +11,7 @@ subtitle: Valentin Peretroukhin
 </figure>
 {:/}
 
-<div class="lead lead-about">Hey! My name is Valentin. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust perception. I obtained my Ph.D. from the University of Toronto. 
+<div class="lead lead-about">Hey! My name is Valentin. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust perception. I obtained my Ph.D. from the University of Toronto, and I will be starting at postdoctoral research scholar at MIT CSAIL in September, 2020. If you would like to contact me, you may find my email address in my CV.
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
