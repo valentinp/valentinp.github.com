@@ -23,6 +23,18 @@ This upcoming winter semester, I will be teaching a fourth year course on mobile
 
 #### ... as a teaching assistant
 ---
+
+<div class="grid">
+<div class="unit one-third teaching_img">
+![ESC103](/assets/img/courses/coursera.png)
+</div>
+<div class="unit two-thirds">
+#### Coursera Specialization on Self-Driving Cars  
+*Summer 2018*  
+I was one of two subject-matter experts (SMEs) who developed the State Estimation course (Course 2) of the [Coursera self-driving car specialization](https://www.coursera.org/specializations/self-driving-cars). This specialization was developed in a partnership between Coursera, University of Toronto, and the University of Waterloo.
+</div>
+</div>
+
 <div class="grid">
 <div class="unit one-third teaching_img">
 ![ESC103](/assets/img/courses/esc103.png)
