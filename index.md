@@ -20,10 +20,10 @@ I obtained my Ph.D. from the University of Toronto. I will be a postdoctoral res
 
 I did my doctoral work in the [STARS Lab](http://www.starslab.ca) (Space & Terrestrial Autonomous Robotic Systems) under the supervision of *Professor Jonathan Kelly*. My [<i class="fa fa-file-text" aria-hidden="true"></i> Ph.D. dissertation](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf) was entitled *Learned Improvements to the Visual Egomotion Pipeline*.
 
-I am currently co-chairing the [RSS Pioneers workshop](https://sites.google.com/view/rsspioneers2020), and I am the web chair for [CoRL 2020](https://www.robot-learning.org/).
+I am currently co-chairing the 2020 [RSS Pioneers](https://sites.google.com/view/rsspioneers2020) workshop, helping to organize the [Power On And Go (POGO)](https://www.power-on-and-go.net/) RSS (2020) workshop, and the web chair for [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/).
 
-Please refer to [<i class="fa fa-file-text" aria-hidden="true"></i> my curriculum vitae](/assets/pdf/valentin_peretroukhin_cv.pdf) and my [<i class="fa fa-flask" aria-hidden="true"></i> Google Scholar](https://scholar.google.com/citations?user=kvnYd8sAAAAJ) for more detailed publication lists. In my spare time, I love reading poetry and literature (especially *Weil, Schopenhauer, Blake, Thomas, McCarthy, and Tolstoy*), playing sports (especially *soccer, hockey, and basketball*) and flying (I received my pilot's license in 2018).  
-<!-- On the right is a picture of me at the Jökulsárlón glacial lake in southeast Iceland. -->
+
+Please refer to [<i class="fa fa-file-text" aria-hidden="true"></i> my curriculum vitae](/assets/pdf/valentin_peretroukhin_cv.pdf) and my [<i class="fa fa-flask" aria-hidden="true"></i> Google Scholar](https://scholar.google.com/citations?user=kvnYd8sAAAAJ) for more detailed publication lists. In my spare time, I love reading poetry and literature (especially *Weil, Schopenhauer, Blake, Thomas, McCarthy, and Tolstoy*), playing sports (especially *soccer, hockey, and basketball*) and flying (I received my pilot's license in 2018).  On the left is a picture of me at the Jökulsárlón glacial lake in southeast Iceland. 
 
 ---
 </div>

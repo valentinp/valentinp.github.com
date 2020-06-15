@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Research
-subtitle: Research
-desc: My research.
+title: Publications
+subtitle: Published work of Valentin Peretroukhin.
+desc: Selected publications of Valentin Peretroukhin.
 permalink: /research/
 ---
 
