@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Valentin Peretroukhin
-subtitle: Postdoctoral researcher | <a href='/assets/pdf/valentin_peretroukhin_cv.pdf'><i class='fa fa-file-text'></i> CV</a>
+subtitle: Postdoctoral researcher 
 ---
 
 <div class="pretty-links">
