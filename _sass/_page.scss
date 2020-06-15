@@ -196,6 +196,10 @@ h2.page-subtitle {
 h2.page-subtitle a  {
   font-size:75%;
 }
+
+.lead-text {
+  padding-left: 2em !important;
+}
 .lead-about {
   color: $dark-blue;
 }
@@ -216,23 +220,18 @@ h2.page-subtitle a  {
   padding: 0.25em 1em !important;
   margin: 1em 0em !important;
 }
+.news-about div {
+  margin-left: 0em !important;
+}
+.news-about h3 {
+  margin-top: 0.25em !important;
+}
 .news {
   border-radius: 5px;
 }
 
 .site-profile {
-  float: left;
-  width: 200px;
-  margin: 0rem $spacer $spacer 0.5rem;
   border-radius: 5%;
-  overflow:hidden;
-}
-
-@include mq-up(md) {
-  .site-profile {
-    width: 250px;
-    margin: 0.2rem 1rem 0.1rem 0.2rem;
-  }
 }
 
 

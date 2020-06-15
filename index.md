@@ -5,14 +5,14 @@ subtitle: Postdoctoral Research Scholar | <a href='/assets/pdf/valentin_peretrou
 ---
 
 <div class="pretty-links">
+<div class="grid">
+<div class="unit golden-small">
+<img class='site-profile' src="/assets/img/valentin_peretroukhin_iceland.png">
+</div>
+<div class="unit golden-large">
+<div class="lead lead-about">
 
-{::nomarkdown} 
-<figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/valentin_peretroukhin_iceland.png">
-</figure>
-{:/}
-
-<div class="lead lead-about">Hey! My name is Valentin. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust perception. 
+Hey! My name is Valentin. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust perception. 
 
 I recently defended my Ph.D. at the University of Toronto. I will be a postdoctoral research scholar in the [Robust Robotics Group](http://groups.csail.mit.edu/rrg/) at MIT CSAIL starting in September, 2020. 
 </div>
@@ -21,7 +21,8 @@ I recently defended my Ph.D. at the University of Toronto. I will be a postdocto
 
 I did my doctoral work in the [STARS Lab](http://www.starslab.ca) (Space & Terrestrial Autonomous Robotic Systems) under the supervision of *Professor Jonathan Kelly*. My [<i class="fa fa-file-text" aria-hidden="true"></i> Ph.D. dissertation](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf) was entitled *Learned Improvements to the Visual Egomotion Pipeline*.  On the left is a picture of me at the Jökulsárlón glacial lake in southeast Iceland. 
 </div>
-
+</div>
+</div>
 
 <div class="grid news-about">
 <div class="unit golden-large news">
@@ -40,7 +41,9 @@ Recently...
 
 <div class="unit golden-small about">
 
-### A bit more about me
+
+<h3> <i class="fa fa-id-card"></i> A bit more about me </h3>
+
 I love reading poetry, philosophy and literature (especially *Weil, Schopenhauer, Blake, Thomas, McCarthy, and Tolstoy*), playing sports (especially *soccer, hockey, tennis, and basketball*), hiking & portaging, and all things general aviation (I received my Canadian private pilot's license in 2018).
 </div>
 </div>
@@ -49,7 +52,7 @@ I love reading poetry, philosophy and literature (especially *Weil, Schopenhauer
 {::nomarkdown} 
 <div class="projects">
 
-  <div class="grid no-gutters">
+  <div class="grid">
       <div class="unit half">
         <div class="project">
           <h4 class="project-title"><a href="https://github.com/utiasSTARS/so3_learning"><i class="fa fa-github" aria-hidden="true"></i> Rotation Estimation with HydraNet</a></h4>
