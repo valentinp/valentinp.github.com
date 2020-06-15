@@ -17,7 +17,7 @@ permalink: /teaching/
 <div class="unit two-thirds">
 #### AER521: Mobile Robotics and Perception
 *Winter 2018*   
-This upcoming winter semester, I will be teaching a fourth year course on mobile autonomy and perception with my colleague Lee Clement. The course is open to both fourth year engineering students and graduate students, and I'm incredibly excited for the opportunity.
+I co-taught a fourth year / graduate-level course on mobile autonomy and perception with my colleague Lee Clement. The course covered the basics of mobile autonomy, including batch and recursive state estimation, motion models, planning algorithms, state-space control, and the basics of machine learning.
 </div>
 </div>
 
