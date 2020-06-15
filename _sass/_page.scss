@@ -12,7 +12,7 @@
   p+ul { margin-top: -$spacer0; }
 
   h2 {
-    margin-top: $spacer2;
+    margin-top: $spacer;
     margin-bottom: $spacer;
   }
 
@@ -191,7 +191,6 @@ p.post-desc {
 h2.page-subtitle {
   font-weight: 100;
   color: #999;
-  font-size:200%;
 }
 h2.page-subtitle a  {
   font-size:75%;
@@ -216,15 +215,12 @@ h2.page-subtitle a  {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .news-about {
-  border-radius: 5px;
-  padding: 0.25em 1em !important;
-  margin: 1em 0em !important;
 }
 .news-about div {
   margin-left: 0em !important;
 }
 .news-about h3 {
-  margin-top: 0.25em !important;
+  margin-top: 0.5em !important;
 }
 .news {
   border-radius: 5px;
@@ -234,6 +230,9 @@ h2.page-subtitle a  {
   border-radius: 5%;
 }
 
+div.profile-pic p {
+  margin-bottom: 1em !important;
+}
 
 // Specific Pages
 

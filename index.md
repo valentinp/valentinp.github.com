@@ -6,12 +6,11 @@ subtitle: Postdoctoral Research Scholar | <a href='/assets/pdf/valentin_peretrou
 
 <div class="pretty-links">
 <div class="grid">
-<div class="unit golden-small">
+<div class="unit golden-small profile-pic">
 <img class='site-profile' src="/assets/img/valentin_peretroukhin_iceland.png">
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">
-
 Hey! My name is Valentin. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust perception. 
 
 I recently defended my Ph.D. at the University of Toronto. I will be a postdoctoral research scholar in the [Robust Robotics Group](http://groups.csail.mit.edu/rrg/) at MIT CSAIL starting in September, 2020. 

@@ -66,7 +66,7 @@
 
 // SITE HEADER - RESPONSIVE ------------------
 
-@include mq-up(sm) {
+@include mq-up(xs) {
   .site-header {
     margin: $spacer1 0 $spacer2;
   }
@@ -77,6 +77,9 @@
 
   .site-nav a {
     margin-right: $spacer1;
+    width: 100%;
+    text-align: center;
+
   }
 }
 
@@ -89,15 +92,17 @@
 
   .site-nav {
     float: right;
-    width: 40%;
     margin-top: $spacer0;
-    justify-content: space-around;
     font-size: 1.25rem;
 
     a {
-      margin-right: 0;
+      margin-right:$spacer1;
       padding: .25rem $spacer0;
     }
+
+  }
+  .site-nav a:last-child {
+    margin-right: 0;
   }
 
   .site-title {
