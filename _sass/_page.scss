@@ -196,7 +196,7 @@ p.post-desc {
 .site-profile {
   float: left;
   width: 200px;
-  margin: 0rem $spacer $spacer3 1rem;
+  margin: 0rem $spacer $spacer 0.5rem;
   border-radius: 5%;
   overflow:hidden;
 }
@@ -204,7 +204,7 @@ p.post-desc {
 @include mq-up(md) {
   .site-profile {
     width: 325px;
-    margin: 0.2rem 1rem 0 0.2rem;
+    margin: 0.2rem 1rem 0.5rem 0.2rem;
   }
 }
 
