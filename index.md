@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Valentin Peretroukhin
-subtitle: Postdoctoral research scholar | <a href='/assets/pdf/valentin_peretroukhin_cv.pdf'><i class='fa fa-file-text'></i> CV</a>
+subtitle: Postdoctoral researcher | <a href='/assets/pdf/valentin_peretroukhin_cv.pdf'><i class='fa fa-file-text'></i> CV</a>
 ---
 
 <div class="pretty-links">
@@ -13,7 +13,7 @@ subtitle: Postdoctoral research scholar | <a href='/assets/pdf/valentin_peretrou
 <div class="lead lead-about">
 Hey! My name is Valentin. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust perception. 
 
-I recently defended my Ph.D. at the University of Toronto. I will be a postdoctoral research scholar in the [Robust Robotics Group](http://groups.csail.mit.edu/rrg/) at MIT CSAIL starting in September, 2020. 
+I recently defended my Ph.D. at the University of Toronto. I will be joining the [Robust Robotics Group](http://groups.csail.mit.edu/rrg/) at MIT CSAIL as a postdoctoral research scholar in September, 2020. 
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
