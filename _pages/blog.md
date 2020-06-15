@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Prose and Poetry
-subtitle:  Prose and Poetry
-desc: Thoughts of a lost graduate student.
+subtitle: The blog of Valentin Peretroukhin
 permalink: /blog/
 ---
 

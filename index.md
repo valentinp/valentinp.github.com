@@ -1,6 +1,7 @@
 ---
 layout: page
-subtitle: Valentin Peretroukhin
+title: Valentin Peretroukhin
+subtitle: Postdoctoral Research Scholar | <a href='/assets/pdf/valentin_peretroukhin_cv.pdf'><i class='fa fa-file-text'></i> CV</a>
 ---
 
 <div class="pretty-links">
@@ -18,14 +19,30 @@ I recently defended my Ph.D. at the University of Toronto. I will be a postdocto
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
 
-I did my doctoral work in the [STARS Lab](http://www.starslab.ca) (Space & Terrestrial Autonomous Robotic Systems) under the supervision of *Professor Jonathan Kelly*. My [<i class="fa fa-file-text" aria-hidden="true"></i> Ph.D. dissertation](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf) was entitled *Learned Improvements to the Visual Egomotion Pipeline*.
+I did my doctoral work in the [STARS Lab](http://www.starslab.ca) (Space & Terrestrial Autonomous Robotic Systems) under the supervision of *Professor Jonathan Kelly*. My [<i class="fa fa-file-text" aria-hidden="true"></i> Ph.D. dissertation](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf) was entitled *Learned Improvements to the Visual Egomotion Pipeline*.  On the left is a picture of me at the Jökulsárlón glacial lake in southeast Iceland. 
+</div>
 
-I am currently co-chairing the 2020 [RSS Pioneers](https://sites.google.com/view/rsspioneers2020) workshop, helping to organize the [Power On And Go (POGO)](https://www.power-on-and-go.net/) RSS (2020) workshop, and the web chair for [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/).
 
+<div class="grid news-about">
+<div class="unit golden-large news">
 
-Please refer to [<i class="fa fa-file-text" aria-hidden="true"></i> my curriculum vitae](/assets/pdf/valentin_peretroukhin_cv.pdf) and my [<i class="fa fa-flask" aria-hidden="true"></i> Google Scholar](https://scholar.google.com/citations?user=kvnYd8sAAAAJ) for more detailed publication lists. In my spare time, I love reading poetry and literature (especially *Weil, Schopenhauer, Blake, Thomas, McCarthy, and Tolstoy*), playing sports (especially *soccer, hockey, and basketball*) and flying (I received my pilot's license in 2018).  On the left is a picture of me at the Jökulsárlón glacial lake in southeast Iceland. 
+### Recent news
 
----
+I am currently
+* co-chairing the 2020 [RSS Pioneers](https://sites.google.com/view/rsspioneers2020) workshop;
+* helping to organize the [Power On And Go (POGO)](https://www.power-on-and-go.net/) RSS (2020) workshop; and 
+* the web chair for the upcoming [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/). 
+
+Recently,
+* my paper titled *A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty* ([<i class="fa fa-newspaper-o"></i> arXiv preprint](https://arxiv.org/abs/2006.01031)) was accepted to RSS (2020)!
+* I co-organized a second vitual edition of the [ICRA Debates](https://roboticsdebates.org) workshop, (first held at ICRA 2019 in Montreal). We have over 1100 unique viewers of our live stream!
+</div>
+
+<div class="unit golden-small about">
+
+### A bit more about me
+I love reading poetry, philosophy and literature (especially *Weil, Schopenhauer, Blake, Thomas, McCarthy, and Tolstoy*), playing sports (especially *soccer, hockey, tennis, and basketball*), hiking & portaging, and all things general aviation (I received my Canadian private pilot's license in 2018).
+</div>
 </div>
 
 ## Research Highlights
@@ -77,7 +94,7 @@ Please refer to [<i class="fa fa-file-text" aria-hidden="true"></i> my curriculu
 
 
 ---
-## Events & News
+## Events
 
 
 <div class="grid">

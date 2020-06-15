@@ -189,8 +189,33 @@ p.post-desc {
 
 // PAGE ABOUT ====================================
 
+h2.page-subtitle {
+  font-weight: 100;
+  color: #999;
+  font-size:200%;
+}
+h2.page-subtitle a  {
+  font-size:75%;
+}
 .lead-about {
   color: $dark-blue;
+}
+
+.about {
+  background: $light-yellow;
+  border-radius: 5px;
+  padding: 0.25em 1em !important;
+
+}
+.about h3 {
+  font-weight: 100;
+  font-style: italic;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.news-about {
+  border-radius: 5px;
+  padding: 0.25em 1em !important;
+  margin: 1em 0em !important;
 }
 
 .site-profile {
@@ -203,7 +228,7 @@ p.post-desc {
 
 @include mq-up(md) {
   .site-profile {
-    width: 325px;
+    width: 250px;
     margin: 0.2rem 1rem 0.1rem 0.2rem;
   }
 }

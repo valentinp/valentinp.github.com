@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: Published work of Valentin Peretroukhin.
-desc: Selected publications of Valentin Peretroukhin.
+subtitle: Selected research and publications
 permalink: /research/
 ---
 

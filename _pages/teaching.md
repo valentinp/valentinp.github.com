@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Teaching
-subtitle: Teaching
-desc: What I study and what I teach.
+subtitle: What I've taught
 permalink: /teaching/
 ---
 
