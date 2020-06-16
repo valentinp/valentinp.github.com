@@ -35,7 +35,7 @@ I am currently...
 
 Recently...
 * my paper titled *A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty* ([<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031)) was accepted to RSS (2020)!
-* I co-organized a second vitual edition of the [ICRA Debates](https://roboticsdebates.org) workshop, (first held at ICRA 2019 in Montreal). We have over 1100 unique viewers of our live stream!
+* I co-organized a second (virtual) edition of the [ICRA Debates](https://roboticsdebates.org) workshop, first held at ICRA 2019 in Montreal. We were delighted to have over 1100 unique viewers of our live stream!
 </div>
 
 <div class="unit golden-small about">
