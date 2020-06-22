@@ -23,7 +23,8 @@ permalink: /research/
 #### [A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty](https://arxiv.org/abs/2006.01031)
 *Valentin Peretroukhin, Matthew Giamou, David M. Rosen, W. Nicholas Greene, Nicholas Roy, Jonathan Kelly*  
 **Robotics: Science and Systems (RSS)**, 2020  
-[<i class="fa fa-github-square"></i> Code](https://github.com/utiasSTARS/bingham-rotation-learning), [<i class="fa fa-newspaper-o"></i> arXiv](https://arxiv.org/abs/2006.01031)
+[<i class="fa fa-github-square"></i> Code](https://github.com/utiasSTARS/bingham-rotation-learning), [<i class="fa fa-newspaper-o"></i> arXiv](https://arxiv.org/abs/2006.01031), [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=8QMcNmCPYR0)
+
 </div>
 </div>
 
@@ -36,7 +37,8 @@ permalink: /research/
 *Valentin Peretroukhin*  
 Ph.D. Thesis  
 University of Toronto, 2020  
-[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Document](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Document](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf), 
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Defense Slides](/assets/pdf/2020_peretroukhin_foe_slides.pdf)
 </div>
 </div>
 
