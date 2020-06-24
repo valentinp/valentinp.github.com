@@ -7,7 +7,7 @@ permalink: /blog/
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Writing is tough. Ideas seem profound until one writes them down. Often the ostensibly deep, complex thought is turned into a nebulous soup of trivialities and trite clichés. But, nevertheless, the writer presses on, constantly searching for that rush of excitement that comes from reading one's own words and thinking, 'that's...that's pretty good.' Here are my attempts.
+<div class="lead lead-about"> I like writing. Well, no that's not true. I don't like writing. In fact, I <a href='https://youtu.be/sUMzQ0karAk?t=168'>hate writing</a>. But from time-to-time, something compels me to write. Perhaps you may enjoy the output of those brief moments of inspiration.
 </div>
 ---
 
