@@ -16,8 +16,8 @@ Sun, you terrible pest.
 
 The days come and go.  
 The rivers flow.  
-The grasses flower.  
-The village invades.  
+The grasses bring flowers.  
+The village brings towers.  
 
 The mountains cry,  
 Sun, you terrible pest!  
@@ -27,7 +27,9 @@ This sordid flesh and endless flora.
 The Sun is patient,  
 The Sun is kind.  
 And when the mountains sleep,  
-The Sun also riseth.
+A dawn breaks.
+
+And the Sun also riseth.
 
 *Heart*
   
