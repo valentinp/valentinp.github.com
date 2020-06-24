@@ -53,7 +53,7 @@ No words to write
 No darkness to light  
 
 No death to mourn  
-No lovers to scorn  
+No lover to scorn  
 
 No snake and no dove  
 No hate and no love  
