@@ -7,28 +7,27 @@ More poems.
 
 *Mountains*
 
-The mountains wait for sin  
+The mountains wait for sin
+
 A Sun rises in the east  
-bearing fruit and wine and glory  
-The mountains scoff  
-Sun, you terrible pest  
+bearing fruit and wine and glory.  
+The mountains scoff,  
+Sun, you terrible pest.  
 
-The days come and go  
-The rivers flow  
-The grasses flower  
-The village invades  
+The days come and go.  
+The rivers flow.  
+The grasses flower.  
+The village invades.  
 
-The mountains sulk  
-Sun, you terrible pest  
-You bring these fools  
-This flesh and flora  
+The mountains cry,  
 Sun, you terrible pest!  
-The mountains cry  
+You bring these fools--  
+This sordid flesh and endless flora.  
 
-The Sun is patient  
-The Sun is kind  
-And when the mountains sleep  
-The Sun also riseth
+The Sun is patient,  
+The Sun is kind.  
+And when the mountains sleep,  
+The Sun also riseth.
 
 *Heart*
   
