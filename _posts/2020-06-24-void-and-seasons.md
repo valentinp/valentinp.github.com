@@ -17,8 +17,6 @@ The days come and go
 The rivers flow  
 The grasses flower  
 The village invades  
-With the hateful, and the poor  
-With the wealthy, and the cruel  
 
 The mountains sulk  
 Sun, you terrible pest  
