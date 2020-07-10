@@ -34,7 +34,7 @@ I am currently...
 * the web chair for the upcoming [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/). 
 
 Recently...
-* my paper titled *A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty* ([<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=8QMcNmCPYR0)) was accepted to RSS (2020)!
+* my paper titled *A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty* ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=8QMcNmCPYR0)) was accepted to RSS (2020)!
 * I co-organized a second (virtual) edition of the [ICRA Debates](https://roboticsdebates.org) workshop, first held at ICRA 2019 in Montreal. We were delighted to have over 1100 unique viewers of our live stream!
 </div>
 
@@ -43,7 +43,7 @@ Recently...
 
 <h3> <i class="fa fa-id-card"></i> A bit more about me </h3>
 
-I love reading poetry, philosophy and literature (especially *Weil, Schopenhauer, Blake, Thomas, McCarthy, and Tolstoy*), playing sports (especially *soccer, hockey, tennis, and basketball*), hiking & portaging, and all things general aviation (I received my Canadian private pilot's license in 2018).
+I love reading poetry, philosophy and literature (especially *Weil, Chesterton, Schopenhauer, Blake, Thomas, McCarthy, and Tolstoy*), playing sports (especially *soccer, hockey, tennis, and basketball*), hiking & portaging, and all things general aviation (I received my Canadian private pilot's license in 2018).
 </div>
 </div>
 
