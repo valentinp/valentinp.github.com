@@ -7,18 +7,18 @@ subtitle: Postdoctoral researcher
 <div class="pretty-links">
 <div class="grid">
 <div class="unit golden-small profile-pic">
-<img class='site-profile' src="/assets/img/valentin_peretroukhin_iceland.png">
+<img class='site-profile' src="/assets/img/valentin_peretroukhin_cambridge.jpg">
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">
 Hey! My name is Valentin. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust perception. 
 
-I recently defended my Ph.D. at the University of Toronto. I will be joining the [Robust Robotics Group](http://groups.csail.mit.edu/rrg/) at MIT CSAIL as a postdoctoral research scholar in September, 2020. 
+I am a postdoctoral associate in the [Robust Robotics Group](http://groups.csail.mit.edu/rrg/) at MIT CSAIL. I received my PhD from the University of Toronto in 2020. 
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
 
-I did my doctoral work in the [STARS Lab](http://www.starslab.ca) (Space & Terrestrial Autonomous Robotic Systems) under the supervision of *Professor Jonathan Kelly*. My [<i class="fa fa-file-text" aria-hidden="true"></i> Ph.D. dissertation](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf) was entitled *Learned Improvements to the Visual Egomotion Pipeline*.  On the left is a picture of me at the Jökulsárlón glacial lake in southeast Iceland. 
+I did my doctoral work in the [STARS Lab](http://www.starslab.ca) (Space & Terrestrial Autonomous Robotic Systems) under the supervision of *Professor Jonathan Kelly*. My [<i class="fa fa-file-text" aria-hidden="true"></i> Ph.D. dissertation](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf) was entitled *Learned Improvements to the Visual Egomotion Pipeline*.  
 </div>
 </div>
 </div>
@@ -29,11 +29,11 @@ I did my doctoral work in the [STARS Lab](http://www.starslab.ca) (Space & Terre
 <h3> <i class="fa fa-newspaper-o"></i> Recent news </h3>
 
 I am currently...
-* co-chairing the 2020 [RSS Pioneers](https://sites.google.com/view/rsspioneers2020) workshop;
-* helping to organize the [Power On And Go (POGO)](https://www.power-on-and-go.net/) RSS (2020) workshop; and 
 * the web chair for the upcoming [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/). 
 
 Recently...
+* I co-chaired the 2020 [RSS Pioneers](https://sites.google.com/view/rsspioneers2020) workshop;
+* I co-organized the [Power On And Go (POGO)](https://www.power-on-and-go.net/) RSS (2020) workshop; and 
 * our RSS paper was awarded the [<i class="fa fa-trophy" aria-hidden="true"></i> Best Student Paper](https://roboticsconference.org/program/awards/) award!
 * my paper titled *A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty* ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=8QMcNmCPYR0)) was accepted to RSS (2020)!
 * I co-organized a second (virtual) edition of the [ICRA Debates](https://roboticsdebates.org) workshop, first held at ICRA 2019 in Montreal. We were delighted to have over 1100 unique viewers of our live stream!
