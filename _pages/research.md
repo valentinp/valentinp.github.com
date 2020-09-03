@@ -22,7 +22,8 @@ permalink: /research/
 <div class="unit two-thirds">
 #### [A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty](https://arxiv.org/abs/2006.01031)
 *Valentin Peretroukhin, Matthew Giamou, David M. Rosen, W. Nicholas Greene, Nicholas Roy, Jonathan Kelly*  
-**Robotics: Science and Systems (RSS)**, 2020  
+**<i class="fa fa-trophy" aria-hidden="true"></i> Best Student Paper Award**  
+Robotics: Science and Systems (RSS), 2020  
 [Official RSS Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-github-square"></i> Code](https://github.com/utiasSTARS/bingham-rotation-learning), [<i class="fa fa-newspaper-o"></i> arXiv](https://arxiv.org/abs/2006.01031), [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=8QMcNmCPYR0)
 
 </div>

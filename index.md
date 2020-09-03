@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Valentin Peretroukhin
-subtitle: Postdoctoral researcher 
+head_title: Home
+subtitle: Fan of Robots & Humans 
 ---
 
 <div class="pretty-links">
@@ -13,12 +14,12 @@ subtitle: Postdoctoral researcher
 <div class="lead lead-about">
 Hey! My name is Valentin. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust perception. 
 
-I am a postdoctoral associate in the [Robust Robotics Group](http://groups.csail.mit.edu/rrg/) at MIT CSAIL. I received my PhD from the University of Toronto in 2020. 
+I am currently a postdoctoral associate in the [Robust Robotics Group](http://groups.csail.mit.edu/rrg/) with Prof. Nicholas Roy at MIT CSAIL. I received my PhD from the University of Toronto in 2020. 
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
 
-I did my doctoral work in the [STARS Lab](http://www.starslab.ca) (Space & Terrestrial Autonomous Robotic Systems) under the supervision of *Professor Jonathan Kelly*. My [<i class="fa fa-file-text" aria-hidden="true"></i> Ph.D. dissertation](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf) was entitled *Learned Improvements to the Visual Egomotion Pipeline*.  
+I did my doctoral work in the [STARS Lab](http://www.starslab.ca) (Space & Terrestrial Autonomous Robotic Systems) under the supervision of *Prof. Jonathan Kelly*. My [<i class="fa fa-file-text" aria-hidden="true"></i> Ph.D. dissertation](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf) was entitled *Learned Improvements to the Visual Egomotion Pipeline*.  
 </div>
 </div>
 </div>
@@ -33,9 +34,9 @@ I am currently...
 
 Recently...
 * I co-chaired the 2020 [RSS Pioneers](https://sites.google.com/view/rsspioneers2020) workshop;
-* I co-organized the [Power On And Go (POGO)](https://www.power-on-and-go.net/) RSS (2020) workshop; and 
-* our RSS paper was awarded the [<i class="fa fa-trophy" aria-hidden="true"></i> Best Student Paper](https://roboticsconference.org/program/awards/) award!
-* my paper titled *A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty* ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=8QMcNmCPYR0)) was accepted to RSS (2020)!
+* I co-organized the [Power On And Go (POGO)](https://www.power-on-and-go.net/) RSS (2020) workshop;  
+* my RSS work titled *A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty*  was awarded the [<i class="fa fa-trophy" aria-hidden="true"></i> Best Student Paper](https://roboticsconference.org/program/awards/) award, thank you to my incredible co-authors; ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=8QMcNmCPYR0))
+* I had the honour of being named a [U of T Engineering Grad-to-Watch](https://news.engineering.utoronto.ca/grads-to-watch-2020/#row10);
 * I co-organized a second (virtual) edition of the [ICRA Debates](https://roboticsdebates.org) workshop, first held at ICRA 2019 in Montreal. We were delighted to have over 1100 unique viewers of our live stream!
 </div>
 
@@ -101,6 +102,16 @@ I love reading poetry, philosophy and literature (especially *Weil, Chesterton, 
 
 
 <div class="grid">
+
+<div class="unit whole news-item">
+<div class="unit half news-item">
+![DDS](/assets/img/events/dds.png)
+</div>
+<div class="unit half news-item">
+![Defence](/assets/img/events/defence.png)
+</div>
+<strong> March, 2020 </strong> - I passed the final oral examination of my doctoral degree! Thank you so much to all of my friends, collaborators and committee members. 
+</div>
 
 <div class="unit whole news-item">
 <div class="unit half news-item">
