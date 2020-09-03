@@ -104,13 +104,7 @@ I love reading poetry, philosophy and literature (especially *Weil, Chesterton, 
 <div class="grid">
 
 <div class="unit whole news-item">
-<div class="unit half news-item">
-![DDS](/assets/img/events/dds.png)
-</div>
-<div class="unit half news-item">
-![Defence](/assets/img/events/defence.png)
-</div>
-<strong> March, 2020 </strong> - I passed the final oral examination of my doctoral degree! Thank you so much to all of my friends, collaborators and committee members. 
+<strong> August, 2020 </strong> - I moved to Cambridge! After months of uncertainty I have finally arrived in Massachusetts (which I will hopefully learn how to spell soon). Excited to embark on my postdoctoral journey.  
 </div>
 
 <div class="unit whole news-item">
