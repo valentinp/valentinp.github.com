@@ -14,7 +14,7 @@ subtitle: Fan of Robots & Humans
 <div class="lead lead-about">
 Hey! My name is Valentin. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust perception. 
 
-I am currently a postdoctoral associate in the [Robust Robotics Group](http://groups.csail.mit.edu/rrg/) with Prof. Nicholas Roy at MIT CSAIL. I received my PhD from the University of Toronto in 2020. 
+I am currently a postdoctoral research associate in the [Robust Robotics Group](http://groups.csail.mit.edu/rrg/) with Prof. Nicholas Roy at MIT CSAIL. I received my PhD from the University of Toronto in 2020. 
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
