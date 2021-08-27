@@ -29,11 +29,11 @@ I did my doctoral work in the [STARS Lab](http://www.starslab.ca) (Space & Terre
 <h3> <i class="fa fa-newspaper-o"></i> Recent news </h3>
 
 I am currently... 
-
-* advising the organizing committee for the [third annual debates workshop at ICRA 2021](https://www.roboticsdebates.org). 
+* learning a ton about [cryo-EM](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2017.pdf)!
 
 
 Recently...
+* advising the organizing committee for the [third annual debates workshop at ICRA 2021](https://www.roboticsdebates.org). 
 * I was web chair for [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/). 
 * I co-chaired the 2020 [RSS Pioneers](https://sites.google.com/view/rsspioneers2020) workshop;
 * I co-organized the [Power On And Go (POGO)](https://www.power-on-and-go.net/) RSS (2020) workshop;  
