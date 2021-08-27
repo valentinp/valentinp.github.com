@@ -12,13 +12,12 @@ subtitle: Fan of Robots & Humans
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">
-Hey! My name is Valentin. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust perception. 
+Hey! My name is Valentin. I'm a computational research scientist at [Structura Bio](https://structura.bio/) working on improving algorithms that underlie [cryo-EM](https://www.nature.com/articles/d41586-020-00341-9).
 
-I am currently a postdoctoral research associate in the [Robust Robotics Group](http://groups.csail.mit.edu/rrg/) with Prof. Nicholas Roy at MIT CSAIL. I received my PhD from the University of Toronto in 2020. 
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
-
+From August 2020 to July 2021, I was a postdoctoral research associate in the [Robust Robotics Group](http://groups.csail.mit.edu/rrg/) with Prof. Nicholas Roy at MIT CSAIL.
 I did my doctoral work in the [STARS Lab](http://www.starslab.ca) (Space & Terrestrial Autonomous Robotic Systems) under the supervision of *Prof. Jonathan Kelly*. My [<i class="fa fa-file-text" aria-hidden="true"></i> Ph.D. dissertation](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf) was entitled *Learned Improvements to the Visual Egomotion Pipeline*.  
 </div>
 </div>
