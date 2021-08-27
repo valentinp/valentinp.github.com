@@ -12,7 +12,7 @@ subtitle: Fan of Robots & Humans
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">
-Hey! My name is Valentin. I'm a computational research scientist at [Structura Bio](https://structura.bio/) working on improving algorithms that underlie [cryo-EM](https://www.nature.com/articles/d41586-020-00341-9).
+Hey! My name is Valentin. I'm a computational research scientist at [Structura Biotechnology](https://structura.bio/) working on improving algorithms that underlie [cryo-EM](https://www.nature.com/articles/d41586-020-00341-9).
 
 </div>
 
@@ -38,8 +38,6 @@ Recently...
 * I co-chaired the 2020 [RSS Pioneers](https://sites.google.com/view/rsspioneers2020) workshop;
 * I co-organized the [Power On And Go (POGO)](https://www.power-on-and-go.net/) RSS (2020) workshop;  
 * my RSS work titled *A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty*  was awarded the [<i class="fa fa-trophy" aria-hidden="true"></i> Best Student Paper](https://roboticsconference.org/program/awards/) award, thank you to my incredible co-authors; ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=8QMcNmCPYR0))
-* I had the honour of being named a [U of T Engineering Grad-to-Watch](https://news.engineering.utoronto.ca/grads-to-watch-2020/#row10);
-* I co-organized a second (virtual) edition of the [ICRA Debates](https://roboticsdebates.org) workshop, first held at ICRA 2019 in Montreal. We were delighted to have over 1100 unique viewers of our live stream!
 </div>
 
 <div class="unit golden-small about">
